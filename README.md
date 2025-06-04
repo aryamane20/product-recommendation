@@ -23,7 +23,7 @@ A comprehensive analysis of user engagement and ratings activity over time.
 
 ### Highlights:
 - **30-Day Rolling Ratings Trend**
-- **Total Ratings er signup year**
+- **Total Ratings per signup year**
 - **Ratings by Hour of Day**
 - **User Retention Snapshot** (% of users with multiple ratings(more than 1))
 
