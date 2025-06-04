@@ -48,7 +48,11 @@ An intelligent clustering-based recommendation system designed to personalize pr
 | 4       | High raters, fewer products, generous     |
 
 ---
+**Dashboard Link:**
 
+https://public.tableau.com/app/profile/arya.raghuveer.mane/viz/Product_recommendation_visualization/BehavioralInsightsfromUserRatings?publish=yes
+
+---
 ## Datasets Used
 
 - `user_final_data.csv`: 5000 users with sign-up data and demographics
