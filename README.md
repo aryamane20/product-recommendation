@@ -1,6 +1,6 @@
 # product-recommendation & User Segmentation for E-Commerce
 
-This project simulates a personalized product recommendation system and user behavior analysis for a niche e-commerce platform (e.g., Amazon-style) using **Python, Tableau, and KMeans clustering**. It demonstrates the end-to-end pipeline from **data generation**, **exploratory analysis**, **clustering**, to **recommendation logic** — packaged with intuitive Tableau dashboards.
+This project simulates a personalized product recommendation system and user behavior analysis for a niche e-commerce platform using **Python, Tableau, and KMeans clustering**. It demonstrates the end-to-end pipeline from **data generation**, **exploratory analysis**, **clustering**, to **recommendation logic** — packaged with intuitive Tableau dashboards.
 
 ##  Objective
 
