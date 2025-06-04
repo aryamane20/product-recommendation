@@ -1,0 +1,26 @@
+cluster,product_id,avg_rating,rating_count,product_name
+0,0075ef71-e086-46dc-81d7-2fb7f4ee87f8,5.0,3,Cauliflower Rice Stir-Fry
+0,082bb0b2-d141-4b2b-9cfa-ef9e3ed6cfa3,5.0,3,Frozen Acai Purée
+0,25d890bd-36d9-4c4e-8281-8e50f6fb8887,5.0,3,Vegetable Medley
+0,305a199f-25fd-4bee-a3a3-49d0af839ce6,5.0,3,Biodegradable Trash Bags
+0,53a5a50b-cf05-467e-bbc2-75e82b9d81a1,5.0,3,Grilled Veggie Burgers
+1,777f75b0-e22d-49d8-a9fb-782052ad1103,4.3,31,Foot Spa Bath Massager
+1,e94c6ee7-515d-4940-95b3-1082c0e4bf63,4.3,31,Cinnamon Spiced Almonds
+1,d1e1ddc7-437f-4ca6-9c2d-20184ead2231,4.3,30,Classic Pumps
+1,ffb937d8-ee51-4ecf-9bba-dbcf462f5d7a,4.3,42,Compact Electric Kettle
+1,e1a8add7-45b9-46d2-a8a4-92e651f9c75b,4.2,28,Self-Cleaning Water Bottle
+2,7a368aeb-7db6-4084-a025-6fb5f0c8574a,3.0,2,Athletic Compression Tights
+2,01a9577a-53b2-4633-8043-8f6f2dc15188,3.0,1,Cheesy Broccoli Soup Mix
+2,06743df9-fc05-4149-b586-d1f54ccd02b4,3.0,1,Organic Cereal Bars
+2,0744654f-a6f3-4bea-b771-687e12d3e9e5,3.0,1,Pet Training Clicker
+2,08ca4dd4-4f03-412b-a01b-05be1c2f75fe,3.0,1,Mashed Sweet Potatoes
+3,299e0a8a-3743-4c36-b634-6985fe45dac0,4.6,14,Travel Orthopedic Pillow
+3,fb1ae551-1f86-4b25-a207-bc574aa5f002,4.6,11,Cheddar & Bacon Potato Skins
+3,98aba0c7-0e26-478b-8dea-48e245409eb5,4.6,12,Coffee Making Kit
+3,7e40d3cd-ef55-4383-9e0d-f46f92cfdd77,4.5,13,Honey Mustard Sauce
+3,bc5478fb-dc0f-4524-aaf0-4527eb3a0658,4.5,13,Foldable Yoga Mat Carry Bag
+4,33cd0f02-941e-4c58-9a6d-87411a2e8fcc,5.0,5,Almond Flour Tortillas
+4,0d90ae5e-3a37-4536-adfd-07d5b9b02dc3,5.0,4,Teriyaki Chicken Stir-Fry
+4,84ae7e30-0f6c-463c-b617-a66e218d9d1d,5.0,4,Vegetable Broth
+4,88c4ac39-30ba-4f20-a7b7-775323e32f2e,5.0,3,Honey Almond Granola Bars
+4,021f362b-f3ed-410a-9cef-9a022c5c98bc,5.0,2,Watercolor Brush Pens

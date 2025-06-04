@@ -1,0 +1,1001 @@
+product_id,product_name,category,price,stock_quantity
+e3e8016b-8664-427d-89d8-d77b110ca0fe,Car Sunshade,Automotive,19.99,931
+f0c128cf-b45a-40ac-8ed6-0c4d32dd1d4c,Woven Storage Baskets,Home,24.99,164
+10fedc15-a9fe-454e-8d76-a25ea6d9e149,Sweetened Condensed Milk,Food - Baking Goods,1.89,554
+88c4ac39-30ba-4f20-a7b7-775323e32f2e,Honey Almond Granola Bars,Food - Snacks,3.99,572
+63975134-9c18-4356-bef8-590b76b144a4,Garlic Herb Grilled Chicken,Food - Frozen Foods,8.99,17
+5324b400-e627-4135-88b8-c5fd875125ec,Basil Tomato Soup,Food - Canned Soups,2.99,517
+497a4e16-9748-421e-a4ae-8fae8248e62c,Electric Stir Fry Pan,Kitchen,49.99,913
+4444dc2e-fac9-4f3f-931c-f52c59b040e7,Sliced Turkey Breast,Food - Deli Meats,5.49,995
+add80662-87fc-4bc8-8651-2a79e078d38f,Foldable Yoga Mat Carry Bag,Fitness,18.99,954
+f44de39d-9be3-41f7-934a-62b972bbf70b,Gluten-Free Brownies,Food - Baking,4.99,78
+f4191eff-85fb-4447-be8a-f6b59a6c8fd3,Maple Glazed Carrots,Food - Prepared Foods,3.29,379
+be5af792-004f-42b5-98ef-ee9325ce48f0,Chocolate Chip Energy Balls,Food - Snacks,3.99,106
+3040c3f4-7a4c-4a8f-9a21-dafd01abdef9,Laptop Sleeve,Accessories,24.99,668
+3801beb0-1a11-431f-9432-a38f82000005,Halloween Decoration Set,Home,29.99,492
+e747d91c-8c93-4001-bbb8-ac8678d60e48,Rechargeable Battery Organizer,Home,17.99,906
+a3d4be8b-f7ff-46ce-8611-76bf73a27bf0,Cheesy Cauliflower Bake,Food - Frozen Vegetables,5.49,492
+401fc519-631b-49ba-b615-0b6e609b048b,Teriyaki Beef Jerky,Food - Snacks,5.49,312
+44b723e7-e1c0-4d6e-88f2-d61b12484365,Pork Tenderloin,Food - Meat,10.99,947
+60f5d51f-d69d-4a82-8df5-ee95ff3aec1b,Set of Measuring Spoons,Kitchen,12.99,834
+8930f107-8d81-47fd-a188-e7bd6b7b34b2,Coconut Bowls Set,Kitchen,22.99,454
+cc48dd4e-f890-4a9d-bb71-fd084e82b62d,Salsa,Food - Condiments,3.49,340
+918e52bc-04ab-4a86-835f-0afd4d2ae9c6,Spicy Thai Chili Sauce,Food - Sauces,3.29,189
+ecf0f5ac-5db6-4b2a-8105-e4b77896c3b2,Almond Flour Pancake Mix,Food - Baking,5.99,514
+19f40229-8930-4585-abbb-c346d43920d8,Vegan Mac & Cheese,Food - Frozen,8.99,511
+53a882a6-caa3-41c0-8290-b38a44f80083,Rice Noodles,Food - Grains,3.49,668
+5c589d91-ea38-4018-bb5a-25aadf9237e8,Balsamic Vinegar,Food - Condiments,4.99,569
+e505ceef-cce6-40c8-ab60-8990badeb2ba,Bluetooth Tracker,Accessories,19.99,462
+1e852c3c-b711-4a68-8af7-f3cffc188110,Mini Projector,Electronics,169.99,333
+a83e25d6-68fc-4c02-b85b-e931848e9f31,Maxi Wrap Dress,Clothing - Dresses,49.99,703
+79408854-b7b0-426c-9819-afc53a6344a7,Jennifer's Amazing Lip Balm Kit,Beauty,22.99,110
+b958430d-3e92-469c-8af9-e13ad02559b5,LED Flashlight,Outdoor,19.99,932
+c0db24e1-fbb5-4b9a-85e9-115fd05c48b1,Chocolate Protein Powder,Food - Supplements,24.99,580
+7d1299df-b3c9-4642-b466-f771f6d16809,Pet Caress Brush,Pets,12.99,840
+0bfe8143-b154-4014-a7fd-ea5305048dd2,Electrolyte Water Bottle,Fitness,34.99,697
+71d5d7a9-7f41-4d27-a2c5-32164eced80c,Pet Bed,Pets,39.99,439
+547dddb5-7e70-4705-8930-bc771b5bc8b4,Wireless Earbud Silicone Covers,Accessories,9.99,476
+0aa1a26a-76cd-4e56-88de-fde53c9a535d,Pocket Blanket,Outdoor,24.99,594
+356f33f5-4d2a-43e8-94d1-c3c8ec9ad8b4,Green Smoothie Mix,Food - Beverages,5.99,547
+8aa7b7d4-2af9-4109-b2fa-9444d507334c,Ice Pack,Health,8.99,468
+6adfdf3b-c8f5-4e03-8352-2d7ff72917b9,Multi-Tool,Outdoor,39.99,91
+291005f8-29cb-44ef-88e1-50b2c21ace3c,Casual Sneakers,Clothing - Footwear,39.99,720
+9cd2b7d9-f546-445f-a070-c7aee15539e9,Savory Oats,Food - Breakfast,2.49,26
+4308b025-2aae-4bac-8f1b-b353e1b6d7a3,Frozen Mixed Berries,Food - Frozen Foods,5.99,386
+94b52ece-3612-4465-97f5-8026e4ea01ba,Honey Glazed Carrots,Food - Produce,3.49,578
+a8506662-aebb-4d32-adba-87a23e85a9c9,Mechanical Keyboard,Computers,99.99,436
+bcf80806-afec-46d7-a9b3-420088c6f337,Frozen Chicken Nuggets,Food - Frozen Foods,4.49,396
+4c2378f3-0bc5-421b-a90e-5593febd63e4,Reusable Silicone Food Storage Bags,Kitchen,19.99,252
+379afb07-f271-4fd9-8f8b-0ffef20a1c16,Home Karaoke System,Audio,129.99,725
+5a1e28c1-ec17-4495-bab4-70508e86ada8,Personal Security Alarm Keychain,Safety,10.99,710
+aebfa3ce-87be-4a6b-9d19-147b99b919b4,Camping Chair with Cooler,Outdoor,49.99,460
+279bd758-cbe1-40c4-a8a0-26a47437c1dc,Kale Chips,Food - Snacks,3.99,421
+b1a5954c-8dee-4248-a330-2a80dac06a9b,Cold Brew Coffee Concentrate,Food - Beverages,7.99,132
+51127be0-a120-4634-a27e-1a392e6a8441,Cocktail Shaker and Mixing Glass Set,Kitchen,39.99,504
+8bf4be84-2f8f-4ac6-98e1-813e4ccad1fb,Coconut Chia Seed Pudding,Food - Snacks,2.99,370
+876bb626-a43f-4577-adf2-21b9e2ee105c,Ice Pack,Health,8.99,371
+305a199f-25fd-4bee-a3a3-49d0af839ce6,Biodegradable Trash Bags,Home,12.99,989
+be43e8c8-97e3-47b3-939a-bf68f918bcb2,Dill Pickle Chips,Food - Condiments,2.29,449
+8c43d11b-deab-40ea-9a78-eb35f61cebc4,DIY Lip Balm Making Kit,Crafts,22.99,379
+42b83250-4874-4cba-b470-a3e1283af54e,Chocolate Raspberry Tart,Food - Bakery,9.99,40
+7926114a-8598-4d4d-b666-aeadda2163bf,Camping Chair,Outdoor,29.99,705
+4165c203-364f-4d08-9706-09ad3fa5ed86,Mediterranean Couscous,Food - Grains,3.59,623
+a4b6aa11-87a1-48ed-bc2c-29774d2ad17d,LED Strip Lights Kit,Home,29.99,462
+868813c8-b1ff-412e-84d4-f03f350fff34,Buffalo Cauliflower Bites,Food - Freezer,6.29,49
+37571726-c6d2-4714-b8a3-47119e9cebd3,Coconut Curry Lentils,Food - Canned Goods,5.79,779
+b74f72c2-21ea-4365-946d-831bdb9e5068,Savory Breakfast Sausage,Food - Meats,6.49,11
+c391d17d-571b-4801-b19c-bf5e170a70c9,Pet Travel Backpack Carrier,Pets,49.99,97
+85677c07-a412-442f-88b8-2e2abde325db,Handcrafted Wooden Coasters,Home,19.99,993
+dbca3965-f474-438e-8f19-d195761f1d22,Sweet Corn,Food - Canned Goods,1.5,161
+7f51a98e-7ec3-432e-b383-c1d7d383ebe4,Electric Heat Pad,Health,24.99,228
+9f6c0811-3a1b-44a6-9898-2287f4ea30b6,Energy Bites,Food - Snacks,3.99,635
+a699e922-0587-4632-8399-1c0fa6b17411,Trail Mix (Deluxe),Food - Snacks,4.59,920
+1cd44f71-2ae9-4993-89be-d234f7085c98,Bluetooth Tracker,Accessories,19.99,44
+53334fb8-6da2-4282-9603-5f2bda10bede,Hiking Water Bottle with Filter,Outdoor,29.99,409
+ab3faa8f-fd54-47c1-b95d-e3d026401677,Apricot Jam,Food - Condiments,4.29,426
+8c450b70-915e-45e7-97f7-bf48ccdbb386,Caraway Rye Bread,Food - Bakery,4.79,95
+cd8bb948-1da2-4ce2-aaff-bd6678192d8a,Slim Wallet,Accessories,24.99,249
+c090eff4-0349-4ee2-8b28-83cff7df41d2,Vegan Chocolate Cake Mix,Food - Baking,4.29,657
+97fcb14f-0809-4813-b9d1-182279768b8b,Cranberry Orange Juice,Food - Beverages,2.49,158
+99bc9a65-92d8-4389-b35b-d4c4bbacdb5a,Frozen Edamame,Food - Frozen Foods,3.29,995
+aad25e0f-2fda-4c08-90dc-0ec14526bc77,Wireless Keyboard and Mouse Combo,Electronics,34.99,275
+34567dff-3f3a-4ee1-a4fb-d8f8d7915480,Tailored Dress Pants,Clothing - Bottoms,79.99,631
+9a261cb7-ef06-497e-9948-f2008a43e585,Organic Cucumber,Food - Vegetables,1.29,439
+e6089273-a0b4-48e6-8cb6-454f23abe1b0,Fitness Balance Ball,Fitness,24.99,470
+0eb5930c-c2f4-4599-a75e-3f323f5fa253,Travel Document Organizer,Travel,15.99,756
+25dced66-1dfe-4479-b5c7-65780f4ddf19,Safety First Aid Kit,Health,29.99,397
+15069b44-e6a2-4df8-8c30-4105cf0228af,Honey Roasted Chickpeas,Food - Snacks,3.29,232
+0727f27c-d349-4e96-ab5e-1223fb1f35bb,Luxury Bathrobe,Clothing,49.99,451
+6bfe31c7-a929-499d-b3d8-6a8fe0814447,Berry Smoothie Mix,Food - Frozen Foods,4.99,465
+7c717bf2-a1b8-4d76-9034-a580671e7776,Magnetic Spice Jars,Kitchen,24.99,655
+1b392dd5-25bc-47a4-ad5c-1922f5d5f5e3,Portable Pet Pooper Scooper,Pets,12.99,318
+22c48434-0ec6-4d8b-8e0d-95ad276ec0eb,Ergonomic Mouse Pad with Wrist Support,Office,14.99,314
+c653e25e-c20f-440e-8916-068b70edb4b1,Peas (frozen),Food - Frozen Foods,1.89,113
+c4c5685c-0c35-4864-b84e-c719d40456cf,Fishing Rod,Outdoor,49.99,105
+5ca6a5d7-2012-45f9-bb45-c02499f0a3cf,Natural Fruit Snacks,Food - Snacks,3.99,489
+2c5e7f5f-6ec0-4b97-8fa9-b311f3299a84,Plant-Based Cookbook,Books,29.99,482
+3ad4bb7e-1bef-4920-bd1d-c9af3d189d34,Sporty Cap,Clothing - Accessories,15.99,664
+c60eb16b-076c-4439-81eb-e0768d17a0c2,Running Shorts,Clothing - Activewear,34.99,110
+578ea4c5-4fc9-4a95-879f-bc59ad2ee92d,Couscous Mix,Food - Grains,2.49,431
+bbac5d49-86f5-46a2-94c7-fd23b6d2acb7,Pet Hair Removal Brush,Pets,14.99,525
+8a1fc4c8-3eb3-4130-b444-9ad0d5472cf0,Raspberry Vanilla Greek Yogurt,Food - Dairy,3.49,885
+8d0bbe14-4bac-4de9-b692-fde38305b9b6,Chicken Broth,Food - Canned Goods,2.49,63
+55c73fd6-abec-4c21-80f3-c08911d8ebe3,Insulated Lunch Box,Kitchen,24.99,489
+9b77b545-6741-4c34-9e65-88d03f9fc0e2,Organic Baby Spinach,Food - Produce,2.99,439
+548f01a0-901f-4619-ae56-ce110f2fc842,Customizable Name Puzzle,Toys,29.99,773
+9690370f-56d4-4054-b2df-bb275534dbba,Garden Kneeler and Seat,Garden,39.99,734
+5f8a1fb5-fc56-4e84-91b4-0233254af3b4,Travel Sewing Kit,Travel,12.99,44
+84ae7e30-0f6c-463c-b617-a66e218d9d1d,Vegetable Broth,Food - Canned Goods,2.29,367
+e1f0d54f-8169-424a-84c9-7abb3aaf80cd,Herbed Couscous,Food - Grains,2.49,541
+b0ef6b76-2436-456b-82d3-f72f36c6e704,Instant Camera,Photography,89.99,778
+50b799da-e689-4a1d-8462-ad86c1c24bc2,Wall Calendar,Home,17.99,779
+6bbeb1c1-3e3f-48f8-9c91-49c3beedaef8,Coconut Curry Sauce,Food - Sauces,3.89,288
+97035ae6-2e49-4db9-af74-42511f451072,Chickpea Pasta,Food - Pasta,4.19,207
+0fced531-2258-44f1-8d1b-2f4c772547e4,Chocolate Chip Pancake Mix,Food - Bakery,3.99,782
+c7dc18fb-f537-4656-b391-0cd05eeac51b,Silicone Baking Mats,Kitchen,19.99,203
+b3509521-6ea1-4c22-b49d-56aea5bead07,Vegan Caesar Dressing,Food - Condiments,3.99,712
+61da96f2-1428-4c2f-a104-b6538f9d8359,Zucchini Noodle Pasta,Food - Vegetables,3.99,993
+98aba0c7-0e26-478b-8dea-48e245409eb5,Coffee Making Kit,Kitchen,44.99,849
+659754b8-4c6a-4d53-95b2-c6f3683257ab,Foldable Electric Scooter,Outdoor,349.99,206
+d258f415-5175-4b13-a69d-c3ca3617af41,Infrared Thermometer,Health,39.99,834
+67b6e1d2-a3d9-45cf-8f69-22b47c7ef903,Reusable Silicone Food Storage Bags,Kitchen,19.99,542
+f0a9e683-fbe4-4f3d-abf1-5a208510180a,Organic Almonds,Food - Nuts,8.99,206
+2a6d9e3e-197d-4c97-963e-f0f5a076555c,LED Canopy Lights,Outdoor,29.99,261
+5fc1593e-6254-4654-8a49-897db9c4c9b7,Nordic Berry Smoothie,Food - Frozen Foods,3.99,517
+bff8d333-65d9-424a-bd0f-9d54437087dc,Car Vacuum,Automotive,49.99,525
+d3a2fbe8-2f90-422b-8935-ca771427f428,Smart Plug,Smart Home,19.99,342
+9b66b9d7-babd-430e-bc54-3a608976f320,Fishing Tackle Box,Outdoor,24.99,819
+b04e491b-049a-44da-b156-19f637c4a715,Portable Bluetooth Speaker,Audio,49.99,233
+98a71b50-7b96-49d8-90c5-9a4bab3a58cc,Portable Speakers,Audio,69.99,458
+4d005948-5359-4366-b0ae-58678a43469c,Portable Air Compressor,Automotive,44.99,94
+4e076d25-4b9a-4589-bf50-26313f8e52fe,Noise Cancelling Ear Muffs,Safety,24.99,254
+4b6ff5d5-f048-4968-985f-0887fe90d088,Decorative Throw Pillows,Home,29.99,230
+5bf4cbaf-4ece-46ab-a55e-d394062e8a91,Kids' STEM Robotics Kit,Toys,59.99,195
+7b712e48-78a9-43d8-b369-e64aedccb865,Greek Yogurt Parfait,Food - Dairy,4.49,827
+72d8a187-cc0f-40fa-ab6a-368fba73bb53,Gardening Tools Set,Garden,45,262
+d1e1ddc7-437f-4ca6-9c2d-20184ead2231,Classic Pumps,Clothing - Footwear,64.99,261
+f149a3a3-ae7e-401f-8c44-424dc878166b,Wooden Blocks,Toys,24.99,792
+98ae2ce6-3d46-4a80-a725-c2b16fa35bb0,Roasted Garlic Aioli,Food - Condiments,3.79,191
+ccf963aa-9e8e-4e24-aa76-d873de63c70f,Compact Umbrella,Accessories,12.99,223
+4e69f83d-3a48-41b7-b31d-f200fa4bf22f,Cinnamon Spiced Almonds,Food - Snacks,5.99,891
+fe5c82b5-ade3-4dfe-bd8e-e173e0184679,Chickpea Salad Deluxe,Food - Produce,4.29,26
+79636fea-916f-40e3-8436-53c3f93944e5,Digital Photo Frame,Home,79.99,518
+2370de85-bc1e-43ac-8231-5617056e7a73,Caribbean Jerk Marinade,Food - Marinades,3.79,476
+d5540bc4-f9e4-45b6-8947-535ef8d7ec3e,Garden Hoses with Expandable Features,Garden,34.99,900
+9dd708c3-244f-4290-9456-3723e6606a28,Stainless Steel Mixing Bowls,Kitchen,29.99,671
+5d5f56fe-e703-4cef-a390-8166bfcd76da,Apple Sauce,Food - Canned Goods,2.19,202
+bd59a90d-7742-4d69-bee7-defd0332a21e,Organic Green Tea,Food - Beverages,4.29,89
+388249b0-7d06-4b12-a1f0-1b670021145e,Almond Butter Cups,Food - Snacks,3.29,602
+ffd5fa26-b796-4737-bfc0-956771cb8146,Electric Razor,Health,59.99,838
+32526884-6ebb-486a-9db5-ab7b6cabcf33,Avocado Oil Mayo,Food - Condiments,5.29,558
+6ec26975-357f-4173-80e3-a0b14755f767,Glass Water Bottle,Fitness,25.99,454
+f949993d-38e7-445c-9619-c6b1d4c5ba5b,Portable Camping Shower,Outdoor,39.99,28
+0960bb4e-8bd2-4e26-9e03-c43b6eda91b6,Slim Wallet,Accessories,24.99,617
+b29705c8-5a6c-4b0b-9b4e-f3c0f46d20c1,Maple Bacon Jerky,Food - Meat,6.99,698
+54892a06-5370-4750-87d1-7b2f2c6f64fd,Margherita Pizza,Food - Frozen Foods,7.99,536
+86850739-80c4-4064-92ae-82bfd8a55ab4,Kale & Quinoa Salad Mix,Food - Salads,4.49,481
+104aa041-e309-44b1-adf6-dc7a7d944c15,Sweet Corn,Food - Canned Goods,1.5,335
+468e247b-3497-4611-8a8e-cd0c47f1667b,Chocolate Coconut Granola,Food - Cereals,3.79,615
+876b85d8-2922-4de8-a700-a11c48ef7b2b,Sesame Seeds,Food - Baking,1.99,43
+d1da8a7b-10e7-4dd5-a6ae-f71bb55ae5e0,Electric Pressure Cooker,Kitchen,89.99,897
+37120793-0877-40ef-af41-1f491e427bcf,Almond Butter,Food - Condiments,6.49,597
+6dbdacd2-92b1-46b2-b575-656703cbdeab,Vegan Taco Seasoning,Food - Spices,2.49,710
+cfc48a25-c69e-43e8-a153-7fd5f64d1fed,Peach Halves (canned),Food - Canned Goods,2.49,566
+fb4dc2b2-5899-4cf4-96ce-38a769f4aaef,Hummus,Food - Snacks,4.29,837
+2501bc5b-5734-4c81-b668-40f5a2713573,Kitchen Knife Sharpening System,Kitchen,39.99,514
+e376eb0f-5c74-4652-845b-3b37b4ceccd7,Brown Sugar,Food - Baking,1.79,89
+044bbb7b-4ae1-4bf9-a10e-8af89e96df6d,Honey Garlic Chicken,Food - Meat,8.49,610
+08ca4dd4-4f03-412b-a01b-05be1c2f75fe,Mashed Sweet Potatoes,Food - Sides,3.99,166
+eec46afc-5b88-4370-a214-353ae0248d18,Cinnamon Sugar Tortilla Chips,Food - Snacks,3.29,656
+473a7807-8eab-4ea2-852a-dd8c824237b8,Chili Garlic Sauce,Food - Condiments,2.49,751
+e30932a1-3589-457a-a9d9-c12ba0099d63,Chipotle Seasoning Blend,Food - Spices,2.49,315
+9b7fa48b-248f-406e-aa71-911b0300684e,Motorcycle Phone Mount,Automotive,14.99,62
+72dd0c57-adcb-4e0e-b081-1ec6084f4b4f,Electric Blanket,Home,59.99,63
+a321db95-9a16-4bb1-9818-924e0e676f18,Cheddar Cheese Crackers,Food - Snacks,2.29,805
+f0caa87b-6de2-4207-8ad5-7bf2931ee60e,Mobile Workbench,Tools,199.99,820
+8401680d-022a-44e2-984f-ddd9bb8eba7a,Glass Food Containers,Kitchen,34.99,868
+17fd2983-011d-44f0-bec9-cb1c53c868c5,Mushroom Soup (canned),Food - Canned Goods,2.49,880
+b04766d0-d60e-419a-b1e0-e570265e884f,Multi-Functional Rice Cooker,Kitchen,49.99,419
+50950db8-b1f8-4419-baff-b6821e250a34,Portable Jump Starter,Automotive,59.99,972
+904e7382-54e4-4ec1-b55a-e8cb00e366a0,Bluetooth Car Adapter,Automotive,24.99,701
+81903a75-c6b8-4ced-916c-6570885d824e,Leek and Potato Soup,Food - Soups,3.29,678
+f411e404-8f24-45bb-94f7-be58eda4f5cc,Cinnamon Sugar Popcorn,Food - Snacks,2.89,426
+69086a5c-c473-4927-a08d-f45202b81561,Pesto Genovese,Food - Condiments,6.49,227
+86bdb24d-268e-4d56-9773-384d004cb360,Mini Food Processor,Kitchen,39.99,574
+d44ec840-4dd6-48d9-8202-24a88812bc6b,Beef Chili,Food - Canned Goods,4.5,42
+5f80a321-74db-4a1e-a31f-a6807f3c69f6,Shoe Organizer,Home,39.99,330
+66ff08bf-3b2e-4a7c-bb32-083e611aa405,Classic Cheesecake Mix,Food - Desserts,4.99,682
+0c9cfb97-01b4-42ce-9acb-cfb11a6d0633,Classic Caesar Dressing,Food - Condiments,3.49,335
+43ea80ab-7145-448a-9949-0ded283af3bd,Vegan Tacos,Food - Frozen Foods,7.49,787
+501a5751-ef2d-4b1b-bca5-39efd97a9d94,Pesto Pasta Salad,Food - Prepared Foods,4.99,104
+4dd31a65-af51-47f1-9668-3c0025ef7b7b,Tea Set with Infuser,Kitchen,34.99,191
+8625d856-5ee5-465b-8314-8178cb76cfd7,Herbal Tea Set,Food,19.99,896
+5b1caefb-f586-4c17-88a8-abeb3e58aa34,Mini Waffle Maker,Kitchen,24.99,712
+a6c2f417-bfbd-4d75-89ee-b53d3f872fa0,Pork Tenderloin,Food - Meat,10.99,104
+251b4f26-9a5c-4213-802a-be3d46f50437,High-Speed HDMI Cable,Electronics,12.99,704
+403399bb-3dc7-492b-8ac3-0dd4f2f5b8b7,Hiking Water Bottle with Filter,Outdoor,29.99,613
+cb817f25-f0bf-46f1-bebc-3453ae835327,Artisan Cornbread Mix,Food - Baking,2.49,370
+62e67c98-b435-468c-adfd-171678e8156f,Zesty Cilantro Lime Dressing,Food - Condiments,3.29,879
+5a9302a4-7211-4961-bfae-1a31a9ab1fa7,Travel Yoga Mat,Fitness,34.99,589
+3e1ecaf5-8256-4e81-847e-d1850fa7fa57,Voice-Controlled Speaker,Audio,99.99,581
+910d749f-b07a-4774-a6e8-f7b38af3efe8,Children's Science Experiment Lab Kit,Toys,29.99,500
+0548f984-69d6-4e12-b4fd-6add261bb5f3,Blue Denim Jeans,Clothing - Bottoms,49.99,922
+16a90175-beec-41cd-9eec-58fafd8d76ce,Chilli Lime Corn on the Cob,Food - Vegetable,1.99,537
+4114015c-acaf-4518-ad95-4bb5fc65a19d,Smartphone Holder for Car,Automotive,14.99,648
+0881ca5b-6b82-454a-8b83-00cc8646e1df,Wooden Toy Train Set,Toys,29.99,414
+301ad304-b261-4cb7-8e30-0c22a48ef8d1,Slim Wallet,Accessories,24.99,560
+e50334c3-21d1-48e4-b347-e4c030eb13f4,Canned Sardines,Food - Seafood,3.29,10
+e4ba34d0-ab70-4720-a3d4-eba2080373ec,Pasta Portion Control Measure,Kitchen,9.99,885
+16e23be6-0c8b-4c77-947d-3610e0072a70,Coconut Yogurt,Food - Dairy Alternatives,3.89,771
+676c14b2-cc0f-432d-83cf-e98c283aa85f,Nail Polish Set,Beauty,25,803
+647ffaa0-1246-4ae7-92bb-e30bae2cbb0a,Crispy Onion Rings,Food - Frozen Foods,4.29,423
+1781b8f7-c7ee-4188-b008-96b9ab8d9b9b,Luxury Yoga Mat,Fitness,39.99,780
+1a0f6f34-5369-4bac-8000-0627cb556b20,Coconut Cream Pie Mix,Food - Baking,4.99,72
+b0796c2f-61b7-487e-98a4-e14771230e3e,Stuffed Bell Peppers,Food - Frozen Meals,5.99,239
+488895b8-2dad-46cb-95e4-ae449ef1f803,Homestyle Chicken Noodle Soup,Food - Canned Goods,2.99,173
+44d6b130-8e90-43c2-821f-9ab3cba4d694,Portable Bluetooth Keyboard,Electronics,39.99,544
+bea2fb7f-ab7c-4474-a8f9-5557bb993e50,Taro Chips,Food - Snacks,3.59,27
+a0124480-2c6d-42d3-b6bd-f0f99965b3ee,Almond Flour Pizza Crust,Food - Frozen Foods,7.99,324
+3a0cec87-c68f-4d95-9559-7c253be4b118,Acoustic Guitar,Music,199.99,92
+2ab6b337-301c-416e-a9d0-c8b73a5dee97,Wall Decals for Kids,Home,24.99,628
+bc5478fb-dc0f-4524-aaf0-4527eb3a0658,Foldable Yoga Mat Carry Bag,Fitness,18.99,364
+1e7534dc-325f-4f95-a53a-53e8904955e1,Sweet Corn,Food - Canned Goods,1.5,301
+d2cb55ce-eec9-4f93-9ef5-2c439e0b31bd,Comfortable Bed Pillow,Home,24.99,428
+63dfc774-86bd-4299-995f-bcb0e99522ac,Organic Granola,Food - Breakfast,5.49,580
+29cf2b5d-699a-42e7-b2dc-e5b001ee24b7,Pineapple Coconut Rice Mix,Food - Grains,3.99,348
+b14d87c7-313b-4f02-94e3-1236784a6996,Garden Tool Set with Carrying Bag,Garden,39.99,858
+34384ded-b7dd-4bb1-aa58-08c348f96726,Rustic Wooden Picture Frame,Home,19.99,735
+0fd2c7ec-c619-4d81-8a9c-6f783efb18b0,Luxury Bath Robe,Clothing,49.99,88
+01e34244-d759-44a5-82e0-ee207610a504,Pineapple Coconut Yogurt,Food - Dairy,4.49,45
+bbc31f7a-515b-4fd7-ab8e-8bc69fcefc97,Foam Building Blocks for Kids,Toys,22.99,24
+5929b6f2-86e7-45da-9e4d-426d8c6a6c1a,Smartphone Gimbal Stabilizer,Photography,89.99,574
+d050fa38-9182-471e-9826-53714afb6e56,Classic BBQ Sauce,Food - Condiments,2.79,26
+4b87fa5b-59ee-458e-b36c-169248352918,Carrot Ginger Soup,Food - Soups,4.29,922
+d2ae9117-908b-4599-a06c-076e59c5b07d,Lemon Lime Sparkling Water,Food - Beverages,1.99,963
+451072c6-bafa-422e-b307-fdae04981a31,Hand Mixer,Kitchen,29.99,764
+87f01a2e-57bb-46d1-ad9d-f80cf9384577,Wooden Blocks,Toys,24.99,719
+b44bafcc-c77a-4ed5-aeef-457d6dcd68cc,Biodegradable Trash Bags,Home,12.99,789
+af591441-f0ec-4e66-b650-2468dffe301b,Peanut Butter Pretzel Nuggets,Food - Snacks,3.29,670
+90d9b0ca-f0d9-47bc-bd3f-3dd2fa864154,Multi-Cooker,Kitchen,89.99,347
+8d0c2998-9914-414d-ae59-de9350c28afd,Pepperoni Pizza Roll-Ups,Food - Frozen Foods,5.99,825
+21a9d751-4751-4363-a2cd-083fb7c80be3,Magnetic Chess Set,Toys,19.99,842
+f353a440-56cb-4224-9df5-a7471caf2eca,Car Vacuum Cleaner,Automotive,39.99,590
+fd54b9af-2203-4f92-a16a-de8360ecc2a4,Ceramic Non-Stick Frying Pan,Kitchen,39.99,509
+c45ca4f9-304f-4199-8038-8b03b409d406,Coconut Cream Pie,Food - Bakery,9.49,512
+d6236425-33d1-4a5b-b662-91c57f79a1fc,Handmade Soap Making Kit,Crafts,34.99,697
+68be0ae7-2dcc-47c3-8c67-9fbb53acf494,Nutty Granola Clusters,Food - Cereal,2.49,788
+621f1649-69a9-4346-9030-f816778550d5,Pineapple Rings,Food - Canned Goods,2.49,112
+e6aa051f-060b-4aad-b982-f57ecd4378e1,Peanut Butter Protein Balls,Food - Snacks,5.29,864
+6904397f-8777-4c73-839b-30f3110d540b,Smart Plug,Smart Home,19.99,840
+eee7f246-4740-48c3-b1b1-632424c201dd,Caramel Sauce,Food - Condiments,3.49,410
+458b025b-11fd-41be-aab0-8c4452de6407,Strawberry Banana Smoothie Pack,Food - Frozen,4.99,565
+a8a4241e-3291-4b7b-a1b5-f6454677c644,Spinach Artichoke Dip,Food - Snacks,4.99,863
+88934440-984d-493d-b819-006c380d5e9b,Baked Potato Chips,Food - Snacks,2.49,251
+24c13438-bae7-4653-b5db-e937065fd159,Beef Stew Meat,Food - Meat,5.99,241
+eb2fd57e-78c5-4144-8e85-527ee7797c1f,Vegetable Pizza Rolls,Food - Frozen Foods,6.49,617
+ab24969d-b221-4387-9065-8b614d6d7866,Garlic Breadsticks,Food - Sides,3.49,45
+54e1a430-f7eb-47dc-8e7f-ba646822e8be,USB Desk Fan,Home,14.99,310
+777f75b0-e22d-49d8-a9fb-782052ad1103,Foot Spa Bath Massager,Health,59.99,459
+7c98253f-f0cb-41ef-bd9d-e586ddb6c6fb,Wild Rice & Quinoa Mix,Food - Grains,2.99,132
+8246fd11-d55d-4024-b228-4b470c748f5a,Pumpkin Pie Spice,Food - Baking,2.99,560
+4af50031-979d-41aa-867a-932b6e8f6c6b,Cucumber Lime Sparkling Water,Food - Beverages,1.49,996
+dd44eb92-4a8f-41a1-864c-d5f31e134b6c,Portable Pet Water Bottle,Pets,18.99,636
+a7a1227c-55ba-4432-99fa-4a1bb894fca6,Radish Chips,Food - Snacks,2.89,346
+c38c869a-8a54-4ecc-b7fa-1a7acd870ec2,LED Flashlight,Outdoor,19.99,869
+8e4a1cfa-8fef-4cb8-956c-c22fb91a691a,Bamboo Charcoal Air Purifier Bags,Home,12.99,329
+b25e9cd1-c1fa-417b-8f73-3f5a5d290229,Plant-Based Cookbook,Books,29.99,427
+c323ca18-231e-405f-b7cc-582e528b3ec7,Magnetic Phone Car Mount,Automotive,14.99,365
+475dd5e7-1774-4e47-88be-de1e09018826,Pasta Portion Control Measure,Kitchen,9.99,447
+2919a36d-3637-4751-b16e-e37e42026ceb,Zesty Garlic Marinade,Food - Condiments,4.49,542
+12fef3d6-21a7-45b0-a185-37b3cf5f74b5,Air Mattress,Outdoor,49.99,528
+8b106eaf-fcb6-43a5-b6e0-371fe0a8e1d6,Cotton Basic Tank,Clothing - Tops,14.99,681
+d190d800-fe81-4143-b1ce-c8eda4788235,Cucumber Lime Sparkling Water,Food - Beverages,1.49,886
+6942cc17-3087-4c39-ba4c-823545647854,Rustic Italian Breads,Food - Bakery,3.99,521
+2a05285e-bcea-463c-b97e-740f52a26c9b,Lightweight Backpacking Tent,Outdoor,129.99,780
+4ff61be0-e043-4339-b4fc-4b749778130d,Lightweight Workout Tank,Clothing - Activewear,29.99,906
+9569866c-8581-4086-b708-725267b3e216,Self-Cleaning Cat Litter Box,Pets,199.99,344
+cddb1114-6cb3-469c-9bce-2e5518f8589a,Compact Umbrella,Accessories,12.99,988
+fed65003-3f0f-4cd8-957a-e45be6f85e06,Cranberry Citrus Sauce,Food - Condiments,3.99,172
+55a4f3cb-08d5-471a-8928-5c84de564e72,Coffee Maker,Kitchen,89.99,520
+eae8c77f-c50a-4ecf-b0fe-1e3ea4add057,Thai Peanut Noodles,Food - Pasta,4.99,298
+45f18666-495d-4270-a69e-7da4af353441,Air Mattress,Outdoor,49.99,517
+e7a81012-b24d-48ff-999c-4555bc1d5ff3,Essential Oil Diffuser,Health,34.99,415
+34b28924-3d8a-460f-b91a-128b4ff6613b,Apple Cinnamon Granola,Food - Breakfast,4.49,87
+fa616a68-72b6-4aa3-9c21-0b84c3435a94,Honey Ginger Tea,Food - Beverages,2.99,434
+63f804b4-47fc-4dd7-a97a-dddce9f92c84,Reusable Coffee Filter,Kitchen,10.99,431
+9497f68c-6549-49ba-a02a-e6c3e94ac9fc,Tomato Sauce,Food - Canned Goods,2.79,580
+bcf8d211-d58d-4c9b-91a1-e7dafa8ebb0d,Grilled Vegetable Medley,Food - Vegetables,4.49,92
+487d9e61-3e73-4e2e-9d81-ebc4ab6ee601,Ginger Turmeric Shots,Food - Beverages,3.99,778
+2c44a258-4b74-4465-93c8-fe1725bb4391,Garden Vegetable Chips,Food - Snacks,3.49,357
+6615e28e-dc9f-44a8-b084-a01a77c4ae67,Classic Leather Wallet,Clothing - Accessories,34.99,178
+816c4500-641d-44cc-ac51-9a980588a4dd,Insulated Coffee Mug,Kitchen,24.99,347
+3cfb8832-102b-4809-b44a-ae5573ab00f7,Pineapple Rings,Food - Canned Goods,2.49,711
+34ccf936-e3a7-4160-bd38-4c187619f76b,Folding Pocket Knife,Tools,24.99,690
+25527a39-2f91-4d07-8976-d0032c6be52e,Fruit Infuser Water Bottle,Fitness,15.99,30
+eaa26851-a312-4557-8516-6ef7966ab6d3,Ceramic Bakeware Set,Kitchen,49.99,42
+219f1c57-3584-46b0-a40f-4afc9ca07c20,Banana Nut Muffins,Food - Bakery,4.49,725
+c60fb8e5-6a38-49ab-a202-81a72b95e063,Foam Muscle Roller,Fitness,24.99,316
+1260301b-c21d-461e-9924-c9628b9b1b1b,Almond Milk Yogurt,Food - Dairy Alternatives,1.99,520
+9f68b6ea-d4c4-4ca0-bd88-e4c87b998044,Pet Nail Clipper,Pets,12.99,743
+4fd29739-830a-41f5-9634-a8a9e2386f84,Spicy Beef Taco Mix,Food - Condiments,1.99,910
+a06487d1-2da1-497b-a008-8fc77e0ef3e3,Wireless Security Camera,Home,109.99,108
+a4cbf0de-5843-4ec3-a947-cae0fac292f9,Chino Shorts,Clothing - Bottoms,34.99,822
+5c089591-da25-4bee-b4b7-cef307506c18,Lasagna Noodles,Food - Pasta,1.89,434
+29e0d8fb-3ccb-41b1-830c-9d92db62026b,Grapes (red),Food - Produce,3.49,738
+1a0ff74f-ef41-4722-af68-63891b17dcab,Rice Pilaf Mix,Food - Grains,2.59,979
+0820b4c3-8b23-4eca-9073-3c4c778199f5,Frozen Acai Purée,Food - Frozen,6.99,826
+ee6e9741-16f7-44a2-9c54-955fbd03d026,Smart Scale,Health,59.99,146
+4324f3f1-d6a8-4a93-91c0-42f47b30d415,Creamy Garlic Dressing,Food - Condiments,3.99,103
+a31ea0ad-53c9-4b03-bb97-1bcb8d63a104,Organic Granola,Food - Breakfast,5.49,743
+c12656a5-c886-481b-bd83-1b864bbda636,Pineapple Teriyaki Chicken Mix,Food - Meat,6.99,831
+a1a6135a-3e9e-48a6-9d36-cc576f5a5b87,Children's Educational Puzzle,Toys,19.99,642
+8d5f3304-fdcd-4f27-b658-69c577b88d34,Buffalo Cauliflower Wings,Food - Frozen Foods,6.99,117
+c047d188-b76e-4f3a-abdc-da416ae369f2,LED Desk Light,Home,34.99,382
+a081a0fb-699c-4343-9821-4a1022d14ed5,Computer Monitor Stand,Office,29.99,395
+33478429-0d37-4a6f-9d3b-72055c7be4c1,Sunglasses Case,Accessories,15.99,874
+0fd38a23-1306-426e-b240-136f8b834f49,Kids' Gardening Tools Set,Toys,22.99,744
+3c97dd1f-af24-4339-8610-749e2f106127,Frozen Cauliflower Rice,Food - Frozen Foods,2.99,485
+471a0cec-9f07-4134-83d3-7a8d7f298fb6,Folding Pocket Knife,Tools,24.99,114
+2679ea43-350b-4bda-aeff-757b42bebc0e,Buffalo Sauce,Food - Condiments,2.99,675
+90e1ef63-1457-4040-b096-d3c9121c7429,Walnut Halves,Food - Nuts,8.49,581
+ccadd22b-5cad-4e44-8c97-a552454db78f,Reversible Comforter Set,Home,89.99,44
+dacdc453-638f-4f21-bb91-8562a410ba8a,Solar Garden Lights,Outdoor,39.99,46
+fd1e284a-fe00-4daf-a423-1cadb1055473,Compact Refrigerator,Home Appliances,199.99,373
+ade27df3-0c79-42e1-b998-547b2b7658e6,Kids' Trampoline,Toys,139.99,841
+5383a4cb-adb8-4fe4-a984-dbe93af26e8b,Ergonomic Mouse Pad with Wrist Support,Office,14.99,746
+de8a2457-22a6-4781-bbf7-05774267c1e7,Key Finder,Accessories,19.99,295
+c4cfab45-1038-460e-b22d-12bf731784b2,Sporty Leggings,Clothing - Activewear,39.99,631
+ce09cd85-8b07-49ad-98dd-2da028e693fc,Vanilla Pudding Mix,Food - Baking,1.29,129
+c33b8843-1c8b-457b-b490-2f28c2b2bfdf,Maple Almond Yogurt,Food - Dairy,1.89,104
+7d7e806d-de82-4887-bbfc-157b64bc7f2d,Heavy Duty Gardening Tool Set,Garden,49.99,115
+618aa1e0-4fdd-4c2f-95bf-73879b2147ea,Organic Green Lentils,Food - Grocery,3.99,207
+3a6998da-71e7-48b5-9da7-903703c796da,Spicy Snack Mix,Food - Snacks,4.99,579
+31b01839-8fc5-4133-be26-39a2c438ad84,Essential Oil Roller Bottles,Health,19.99,784
+20e1d833-9133-4c04-94a1-c1013ef502c5,Camping Tent,Outdoor,79.99,742
+f0e8f5fb-78d3-4496-b276-7c044b81c372,Dog Collar,Pets,15.99,584
+fddc6604-b09e-495d-b616-f5326d0a284a,Jump Rope with Counter,Fitness,12.99,237
+b642c117-033e-47a0-b35a-9b5d1b0c4968,Fitness Tracker Watch,Wearable Tech,79.99,89
+b9295809-7748-4b0b-8573-b94c8cfbc445,BBQ Lentil Chips,Food - Snacks,3.49,199
+7c8c084b-496a-421d-87c9-78ee19ad7e48,Heat-Resistant Silicone Mat,Kitchen,19.99,155
+510abeae-082b-4356-b3f1-415a387a859c,Honey Graham Crackers,Food - Snacks,3.29,160
+b027d7d2-faeb-4ee8-8cfe-ed12ca22dfe1,Sketchbook,Art Supplies,14.99,681
+5354f92b-29fd-4a88-9f87-23a694a0089b,Sesame Ginger Dressing,Food - Condiments,4.09,606
+c417f2dc-bcf6-4ae5-bf95-e5f369bcdbab,Spicy Garlic Edamame,Food - Snacks,3.99,686
+fe371ab1-8236-423f-adb1-c84eb08598fb,Coconut Chia Pudding,Food - Dairy,3.49,496
+54cf77a7-b3dc-4eb6-903c-7fdc1ecfc573,First Aid Kit,Health,29.99,188
+55235d9e-7617-4b3e-a839-acaadd8b2391,Camera Tripod,Photography,49.99,204
+a053e209-ff2b-4dbd-9af9-1f01a4244015,Nutty Granola Clusters,Food - Cereal,2.49,165
+77be4945-3b43-4b60-b504-81c992df195f,Coconut Chia Seed Pudding,Food - Snacks,2.99,935
+54b196bf-e627-4d0c-9e1e-8d5d81a77022,Laptop Backpack,Accessories,69.99,175
+5b21ec0d-4806-463a-9212-99ff4a5c01bd,Classic Pumps,Clothing - Footwear,64.99,249
+71c76484-dc6c-46cd-aaba-60d58d7fddaf,Bluetooth Headphones,Audio,79.99,342
+303052fd-7f8f-4d5f-bc5e-c90717b02dd1,Ice Cream,Food - Frozen Foods,5.99,365
+a8fd9cfa-5f47-4877-a393-b9d9fcb77c1e,Peanut Butter Granola,Food - Breakfast,4.99,496
+e16b72bc-9bd9-4dad-ba3e-f75e8c9c1c16,Stylish Wide-Leg Trousers,Clothing - Bottoms,59.99,532
+69d8c343-37bf-4a80-a604-68991153bff9,Travel Laundry Bag,Travel,9.99,864
+e60cdb01-60cb-40cf-a3a0-d09bf6426200,Pet Leash,Pets,15.99,145
+4ac12749-4887-4f8f-87f6-aee421d442af,Fruit and Nut Energy Bites,Food - Snacks,2.99,753
+c2544085-ede1-4d50-a2a6-08153ad5a227,Sweet Potato and Chickpea Bowl,Food - Frozen Food,6.49,383
+f375fb43-e97b-4b89-b680-6fe2a6911f07,Wireless Charger,Accessories,24.99,984
+7f0c4898-5143-4fcd-8d3e-6da9b9f4c078,Cotton Sweatpants,Clothing - Bottoms,29.99,899
+3a39f1b5-1441-4bf9-8eb9-c15cc78512d4,Cork Yoga Mat,Fitness,39.99,840
+6aaf6587-97d5-419e-ba73-38a95de9f183,Safety Pin Dispenser,Office,5.99,704
+9ec4a60a-337f-4f21-ac19-a29b06d0aa66,Siphon Coffee Maker,Kitchen,49.99,873
+a556f32a-cc44-464d-8f1f-7d7a8e85aa70,Wooden Kitchen Utensil Set,Kitchen,19.99,282
+a1a241b4-caa6-4858-99f4-64e46430fb18,Outdoor Sports Backpack,Outdoor,49.99,622
+f1fe3793-c729-4748-ac1f-b183ed43027a,Electric Nail File Kit,Beauty,34.99,788
+43c7cf14-11f1-4ae9-b30e-a9c33f5b287c,Italian Meatballs,Food - Meat,8.49,834
+9553d557-4dd8-45b3-b754-a895f72c7e7c,Spicy Vegetable Sushi Rolls,Food - Prepared Foods,8.49,225
+99ddd8ef-96ee-43a6-ac9f-8b4dadb10a08,Body Wash,Beauty,12.99,150
+6dab9859-b5e8-4cae-a364-be41cc994c9e,Vegetable Korma,Food - Frozen,6.49,302
+c627794c-de52-4268-88ad-89f0bc2d0637,Sliced Turkey Breast,Food - Deli Meats,5.49,944
+6d780a2a-916e-468e-8345-f8f9110014b8,Mango Chutney,Food - Condiments,3.99,835
+d9535a27-f471-4aec-97db-4a8ea6ca21cf,Camping Tent,Outdoor,79.99,954
+57a69385-6618-455e-88d1-e282fc2b6b04,Frozen Acai Bowl,Food - Frozen Foods,6.49,213
+b9b3019a-25b3-4278-b235-34acd099b246,Denim Jacket,Clothing - Outerwear,69.99,414
+4d809435-927d-428a-9b46-be996056c90d,Interactive Plush Toy,Toys,34.99,438
+de87e822-fa44-435e-b07f-90d25cd5c1f4,Eco-Friendly Yoga Mat,Fitness,39.99,310
+1d874d7a-7a17-43b0-9d1b-fbf6f66afde5,Puff Pastry,Food - Bakery,5.49,558
+f7f8e797-4574-4191-b1f8-d9e765e07461,Pumpkin Puree,Food - Canned Goods,2.99,684
+adb110d5-fe81-43e7-977b-973aebaf6bcc,Pumpkin Pie Spice,Food - Baking,2.99,203
+42af791e-56bf-44ff-9370-5de38be3501a,Children's Backpack,Accessories,29.99,596
+473fb3fe-f912-4e9c-bc66-e3d50dd6ab71,Ginger Turmeric Shots,Food - Beverages,3.99,457
+5e5f651e-df3c-4edf-aba9-a956bad8f912,Ramen Noodles,Food - Pasta,0.99,927
+584e0bda-66c1-4e70-884f-06c0aa203153,Pineapple Salsa,Food - Condiments,4.29,47
+e1ac1bbc-941d-4f39-8896-b4d4d10599d2,Apricot Jam,Food - Condiments,4.29,824
+11536219-615b-4e39-89ca-78db25592d2d,Teriyaki Salmon Fillets,Food - Seafood,9.99,670
+aa257192-dde1-44aa-aa58-6a608b38dc7f,Protein Powder,Fitness,44.99,631
+66637044-6046-47c9-9dad-3d20150de069,High-Speed Blender,Kitchen,99.99,774
+2eb53ecd-d8ff-4e26-b58d-8977a883d3e3,Honey Butter Popcorn,Food - Snacks,2.99,907
+ff820ae0-4cee-46e3-a4c9-52af35308880,Pet Camera with Treat Dispenser,Pets,149.99,537
+d3c085cf-7229-4412-b59a-f5b9b9051f32,Adjustable Height Standing Desk Converter,Office,89.99,678
+643335e9-30b7-49e0-98be-66101585cce1,Car Windshield Sun Shade,Automotive,19.99,13
+e7951d86-ed64-4512-a864-8eba1651f5c8,Italian Herbal Seasoning,Food - Spices,1.99,46
+ebe89e0b-78b5-405d-a242-5dfd1f82ace1,Energy Protein Bars,Food - Snacks,2.29,717
+5d748380-303a-4156-8244-d9e7cf31fc64,Dill Pickle Chips,Food - Condiments,2.29,976
+67883e2e-f147-414e-ac33-1d2cce820ea5,Coconut Granola,Food - Snacks,4.19,859
+d9c88f0b-b9ff-4f75-8b69-d7da8ff47c81,Pet Bed with Removable Cover,Pets,49.99,569
+b61d4f21-8184-4e75-9d3c-3f467f201c38,LED Disco Ball Light,Home,19.99,259
+715dbdf1-5f45-42e6-ad57-b6a6404dacf9,Chocolate Chip Pancake Mix,Food - Bakery,3.99,434
+d6a40c24-67a4-4295-ba11-6515103e6561,Spicy Thai Noodles,Food - Frozen Meals,1.99,601
+3a9a98c6-e344-4d8f-8fe0-e0768572823e,Paprika,Food - Spices,1.79,80
+b7746cad-826a-42e0-8f1c-20efaf18df72,Cotton Pajama Set,Clothing - Loungewear,49.99,246
+25e08b26-ec4f-4a0d-9ebf-5655cde5f278,Chia Seeds,Food - Grains,6.99,691
+4e097c2d-f9fd-4213-afd9-574ec40fa157,LED Christmas Lights,Home,29.99,748
+b8a826ee-404b-4333-8364-5216bfdb57ce,Ice Cream Scoop,Kitchen,12.99,384
+8b81085e-212f-4701-9ac8-beb018603eed,Smoked Paprika Chicken Thighs,Food - Meat,6.99,711
+858de15f-29ea-4cb4-9755-de8cac287f8f,Barbecue Chicken Pizza,Food - Frozen Foods,8.99,952
+b87537a9-5cbf-4fc0-a305-d2ebd2b4449e,Savory Rice Cakes,Food - Snacks,2.5,634
+0f7d0de8-9e2f-4eb4-8e77-04c0ab5b7c30,Silicone Baking Mat Set,Kitchen,24.99,710
+46ef527a-4b2f-4953-8716-1a6edd1158e5,Rustic Italian Breads,Food - Bakery,3.99,632
+4738fc96-f291-4a80-94ac-36b7ad57096e,Reclining Camping Chair,Outdoor,49.99,859
+0668b601-74f4-4a25-a3e1-c9e49bef862d,Apple Pie Filling,Food - Canned Goods,3.49,829
+34251722-9d01-4c22-8717-a7b529a3a3b3,Sports Windbreaker,Clothing - Outerwear,44.99,463
+a7133f35-14e2-47b6-9fd1-771ce1dd488b,Tailored Dress Pants,Clothing - Bottoms,79.99,223
+36dd2518-59e7-4134-9b26-9233d66bc26d,Applewood Smoked Bacon,Food - Meat,6.99,971
+4c5b1ea8-086a-43e9-b2d7-ca4d03099b38,Pet Leash,Pets,15.99,666
+f06ccc7a-92f0-493c-a4aa-33d1e1c100f5,Animal Paw Print Soap Dispenser,Home,16.99,889
+9ae55ae1-c963-40b9-b262-7cbee5248120,High-Speed Hand Blender,Kitchen,39.99,321
+8b06ee99-2d00-40b8-9526-6748fbc287ec,Kids' Crafting Station,Toys,49.99,82
+a8646722-f082-45e5-b4b1-c655b8f80ef0,Fishing Rod,Outdoor,49.99,292
+b0520b74-4798-4f18-8f45-a54217b524e9,Body Pillow Case,Home,14.99,215
+ad3ea39a-e515-4355-a71b-2bd22c27c2da,Compact Folding Table,Outdoor,49.99,232
+169c5651-fd07-4242-b038-75c815de10c1,Buffalo Stilton Cheese,Food - Cheese,8.99,815
+1c1d2820-64f9-4d61-8843-a5710643c182,Outdoor Picnic Blanket,Outdoor,34.99,529
+a1dfe979-2b8c-47ed-b257-49525141f638,Cheesy Cauliflower Bake,Food - Frozen Vegetables,5.49,425
+47c58608-2d69-4746-9313-aea6317e417d,Buffalo Cauliflower Bites,Food - Freezer,6.29,953
+06aa7e19-b4eb-478b-9202-d979afbeb26d,Berry Smoothie Mix,Food - Frozen Foods,4.99,406
+898a194e-7aa7-4501-ad12-562d134cd6be,Pet Hair Removal Roller,Pets,10.99,606
+4684d99a-2f05-4e09-be92-91dd7c227f10,Eco-Friendly Stainless Steel Straws,Kitchen,12.99,717
+068b8e53-6e6f-431c-be01-8ae3f9a88155,Carrot Sticks,Food - Produce,2.49,111
+53cecbf1-5ddd-4baa-b43d-f102cfa7d6f0,LED Desk Light,Home,34.99,545
+af674bff-5185-48cf-8105-16a78cd81989,Chicken Parmesan Dinner Kit,Food - Frozen Meals,14.99,687
+d05287f3-163a-4a86-9eae-b1c0784cadd7,Fitness Tracker Band,Fitness,29.99,920
+c44d7c1e-cdef-47ec-b66b-22df57bdc965,Wireless Printer,Office,99.99,264
+b227f6ec-7abe-4adc-b222-aaec6dd120a2,Banana Nut Oatmeal Cups,Food - Breakfast,2.99,949
+8c7ced18-d8bb-44dd-ac03-946eac621889,Sweet Potato Mash,Food - Frozen Foods,3.99,156
+953cf7b3-e12a-4a6a-b5db-29f714c9cce8,Chicken Parmesan Dinner Kit,Food - Frozen Meals,14.99,32
+323e48be-e5d6-4f74-a320-18ffc0484cee,Memory Card,Storage,15.99,573
+24a8faaa-4f82-42d7-b09b-efcb6c00eae9,Mini Pretzels,Food - Snacks,2.99,190
+255feaa3-8786-4119-986a-9c55dd052363,Sesame Garlic Noodles,Food - Pasta,3.49,139
+4bdbbffc-331a-4149-8546-e144161a4d95,Classic Leather Wallet,Clothing - Accessories,34.99,134
+50bc3e0c-f15c-448c-92e2-2fc755c29fac,Frozen Cauliflower Rice,Food - Frozen Foods,2.99,968
+f996fd80-aaa0-4f86-9bdc-3d67b1663120,DIY Candle Making Kit,Crafts,22.99,494
+b3f46210-dbcd-44a7-8b40-e5c8c0c876e7,Sea Salt Tortilla Chips,Food - Snacks,2.49,59
+295f099b-85af-42a5-a732-425e92833738,Apple Pie Filling,Food - Canned Goods,3.49,622
+00d252fb-a219-404e-902f-8c523fde73e4,Herb Garlic Butter,Food - Condiments,3.99,760
+7b6d6d05-60a4-4945-a0bb-b35cdcc371fe,Vegan Mayonnaise,Food - Condiments,4.49,304
+ed786076-e51b-4e30-971e-c9621f887cd5,Tandoori Chicken Skewers,Food - Meat,7.99,950
+082bb0b2-d141-4b2b-9cfa-ef9e3ed6cfa3,Frozen Acai Purée,Food - Frozen,6.99,255
+d9767787-f626-4272-acdf-8550025eff28,Weighted Blanket,Health,79.99,550
+a434a362-e02c-455d-ab62-f0f7eec6ecab,Digital Stopwatch Timer,Fitness,12.99,20
+a26e5f4e-d56b-4588-814d-29dd3ff7868d,Garden Hose,Garden,32.99,895
+9e0b80de-e071-467b-abb1-bc0955e6ffe5,Bamboo Bathtub Caddy,Home,34.99,397
+238d1ded-c3e6-45e4-adfd-9d20e2d8b86e,Foam Building Blocks for Kids,Toys,22.99,400
+bfebc507-c2a1-4a5b-be15-4f87df21fda4,Handmade Leather Journal,Books,39.99,794
+01613d06-ecdd-42f9-ba57-fd58eea89f53,Smartwatch,Wearable Tech,199.99,177
+dc213f88-2774-4735-8b5a-fbb664e9ed19,Pretzel Bites,Food - Snacks,4.99,728
+b4643bb4-bbb5-44f3-9219-098f506fc1aa,Blueberry Oatmeal Cups,Food - Breakfast,3.29,654
+c4802735-1765-498a-b979-0c494658b981,Siphon Coffee Maker,Kitchen,49.99,939
+0f2ea935-fbee-471e-8ea2-e1090b00fb4c,Vegetable Fried Rice,Food - Frozen Foods,4.99,794
+0af2435f-43c1-4ead-b02d-374b94481f94,Maple Cinnamon Granola Bars,Food - Snacks,3.49,507
+434a087e-30af-470d-b3a0-38b50956c152,Classic Caesar Salad Kit,Food - Salads,4.99,792
+17f25d11-f7ce-46d0-a179-9f9a8df4c0ef,Smart Thermos,Fitness,39.99,791
+ef751ff6-9f75-4453-a677-38dc22a2a9d9,Kid's Fruit Snacks,Food - Snacks,2.49,140
+d2eeee10-9508-4612-abce-06dcc813df72,Vegan Chickpea Salad,Food - Prepared Foods,3.99,931
+ce07b653-3a1e-439b-bec4-0e4202a82033,Fruit Infuser Water Bottle,Fitness,15.99,133
+11dc7e24-35ed-4422-a67c-8b3ed98f5b1f,Diced Tomatoes (canned),Food - Canned Goods,1.49,245
+5b7e262b-59fe-45ae-92b0-52306500c2c4,Mediterranean Flatbread,Food - Bakery,3.5,327
+25d890bd-36d9-4c4e-8281-8e50f6fb8887,Vegetable Medley,Food - Produce,2.99,545
+f0321945-6352-40d2-bb65-4cd1dc87bdc0,Cranberry Citrus Sauce,Food - Condiments,3.99,33
+10c98fef-cbe2-49b3-b7dc-b23b9c3a899a,Winter Knit Beanie,Clothing,14.99,884
+86a37d07-21df-4282-9abb-0e6fdd3742ed,Coconut Chia Seed Pudding,Food - Snacks,2.99,485
+7bc8b870-ae54-4a84-89c4-f9c104b1668a,Garden Kneeler and Seat,Garden,39.99,889
+7ff6574f-d24b-41cc-9238-97504b5810e9,Whisk Set,Kitchen,12.99,207
+ffb937d8-ee51-4ecf-9bba-dbcf462f5d7a,Compact Electric Kettle,Kitchen,29.99,390
+3d5f9c83-7f2c-4768-ab25-e99ebc10d174,Baking Powder,Food - Baking Goods,1.79,422
+e365e131-2e3f-4607-b864-b3c186bedb5c,Honey Mustard Pretzel Bites,Food - Snacks,3.99,586
+391e960a-3a8c-4935-b3c8-1354a5b0c4fe,Electric Butter Churn,Kitchen,49.99,432
+6bd89bc2-151f-4aa7-97ed-b72c11c98cb0,Foot Massager Machine,Health,59.99,224
+888735ad-2c49-42c3-b79d-6c5524901536,DIY Candle Kit,Crafts,34.99,782
+73769821-26ba-4de9-b2ba-71e6c7de2088,Cheese Stuffed Jalapenos,Food - Snacks,5.99,863
+aef11dcf-da16-44c6-832f-dfe89d5a1d86,Car Phone Mount,Automotive,15.99,639
+af7b599d-001e-47b0-96ae-e7e407bd7218,Mini Waffle Maker,Kitchen,24.99,891
+235f32f4-0666-4fed-9909-4a6b89283174,Nutty Trail Mix,Food - Snacks,4.29,89
+5f81eb86-22eb-47a4-b533-047abdd319f8,Electric Screwdriver,Tools,59.99,355
+9df54e0c-0ff7-431c-916a-46651af8a7e1,Whole Roasted Chicken,Food - Meats,9.99,552
+9b806790-2225-4fb8-8f7f-19292a15587e,Spaghetti and Meatball Dinner Kit,Food - Meal Kits,7.99,142
+d89a93b5-f112-413f-906b-511631ec0dd5,Non-Stick Grill Mat,Outdoor,19.99,954
+881a1b43-5e23-4e51-a340-d1c3ecb9436d,Herb Garden Planter Box,Garden,49.99,231
+df1afd13-5132-4756-940e-401d53df12e1,Steak Seasoning Rub,Food - Spices,2.49,165
+5715f215-10d1-4061-a0fe-bfe42aca52d8,Cable Knit Beanie,Clothing - Accessories,19.99,457
+d6827c4d-b409-4f79-a321-8a5008498e55,Herb Garden Planter Box,Garden,49.99,551
+07574bc9-afbc-445a-9bd2-85faa0b0bfe6,Samsung Galaxy Smartwatch,Wearable Tech,249.99,199
+316b5853-e194-47f1-bff1-f461a356cd31,High-Speed Blender,Kitchen,99.99,183
+51f8def1-dbd2-4464-9489-54edd0180dae,Action Camera,Electronics,199.99,780
+9fff6755-3f09-40ac-9d31-4f216f989caa,Whole Grain Hamburger Buns,Food - Bakery,2.69,357
+ecdaf3cd-c48e-4983-80f4-f8eddb4cd612,Self-Inflating Camping Mattress,Outdoor,49.99,125
+4f869d1f-47ba-40c1-b1ef-a49d09382c1f,Sweet Potato Fries,Food - Frozen Foods,3.99,983
+aa88db9f-58dd-4b20-b27f-91fb060c29d7,Watercolor Paint Set,Art Supplies,19.99,40
+d5068b06-600b-4bc3-a910-8c69c2359814,Matcha Green Tea Powder,Food - Beverages,14.99,701
+4568e407-1699-493e-8256-5bae8fb23c7b,Eco-Friendly Stainless Steel Straws,Kitchen,12.99,94
+251b28c7-1996-4b79-b3e0-a39a59415e04,Cilantro Lime Rice,Food - Grains,2.99,527
+51961383-130d-42e3-8c33-9e79b41c1f2c,Indoor Plants,Garden,19.99,529
+545b8de2-dec7-4a40-9052-295b5d39b5f5,High-Pressure Handheld Shower Head,Bathroom,39.99,600
+a8aed06e-6f61-4196-8db1-d50e5a014976,Eco-Friendly Yoga Blocks,Fitness,15.99,84
+5120dc95-a7ac-4f45-a3c0-e978feb3eef6,Stainless Steel Mixing Bowls,Kitchen,29.99,870
+ff17b927-bffc-4d55-9028-e54d1947a87d,Laundry Detergent,Food - Household,12.99,271
+c06e17d4-e426-49a0-84ae-5bda843f7410,Stuffed Grape Leaves,Food - Prepared Foods,5.79,717
+834a2e3e-a01d-4216-af39-a39d82726366,Memory Foam Mattress Topper,Home,109.99,440
+a826702e-6da8-4abf-a5dc-ecea5149fb44,Sesame Oil,Food - Oils & Vinegars,3.99,387
+e63c7081-7276-4909-8cde-aafc5a4d5a8b,Bluetooth Shower Speaker,Audio,24.99,288
+75efcae4-6719-4e3d-9d4b-1a6c1a893acd,Pineapple Rings,Food - Canned Goods,2.49,288
+3a77ae55-9f31-45b7-94c7-0f7c9c0483b6,Cheddar & Bacon Potato Skins,Food - Frozen,7.49,437
+9e9cb1e0-184b-47f4-bc1c-85db7bd85550,Lightweight Rain Jacket,Clothing - Outerwear,79.99,802
+0010fd30-0e97-45a7-809c-424836ac09e9,Fire Roasted Salsa,Food - Condiments,2.49,822
+53a5a50b-cf05-467e-bbc2-75e82b9d81a1,Grilled Veggie Burgers,Food - Meat Alternatives,6.29,674
+6eab48a1-eba1-4499-b59f-d51d57e8d753,Kombucha Drink,Food - Beverages,3.49,858
+79b7fe2c-8ba5-4880-82f1-80ae1a0a5f8b,Whisk Set,Kitchen,12.99,18
+1a161bb2-d54f-4566-b8f4-a2fe6de5c595,Photo Album,Home,24.99,943
+dc8c2045-f07b-4868-8367-8a97b8899faa,Tomatillo Salsa,Food - Condiments,3.29,574
+d2bd582f-ff5c-473d-bde0-ff3129c46968,Organic Granola,Food - Breakfast,5.49,230
+6ba7c260-fb48-48fa-87c2-5999b4948fac,Chipotle Black Bean Burger,Food - Meats,4.99,583
+fbd82b8e-78f1-4069-9b91-97745058e99a,Bicycle Lock,Bicycles,29.99,472
+b7419177-5fad-4844-9deb-d6d78687a9c4,Canvas Tote Bag,Clothing - Accessories,19.99,691
+ccc4c797-ff2b-434a-921b-ee67c380a858,Graphic Sweatshirt,Clothing - Tops,34.99,634
+0299298a-13fc-475f-8636-ce911d26ea32,Body Pillow Case,Home,14.99,97
+b3731ca9-01d1-4feb-95fb-953b9bb061a0,Customizable Name Plate,Office,19.99,563
+68476a91-8dbf-410f-b148-56fb23eb3d79,Paprika,Food - Spices,1.79,277
+6a132acb-a4e9-4b8b-b0a8-394378c3342a,Children's Educational Workbook,Books,12.99,799
+58100fc0-aef7-4984-b588-30e26467eb79,Luxury Yoga Mat,Fitness,39.99,47
+aed8a934-3e2b-4f20-9405-e52929c18416,Smoked Paprika,Food - Spices,2.99,51
+05a0b9e9-02cd-4217-8cea-458db2019ec6,Magic Color-Changing Mug,Kitchen,14.99,38
+d65eebda-6d3c-43ad-b510-70dc1d56faed,Frozen Vegetarian Pizza,Food - Frozen Meals,6.49,874
+fe884607-6298-4f4f-ae52-eae4fa97f79d,Asian Stir-Fry Kit,Food - Frozen Meals,5.49,962
+ad240d77-afe0-451a-89a3-6f58f4f5e8ef,Instant Camera,Photography,89.99,500
+021f362b-f3ed-410a-9cef-9a022c5c98bc,Watercolor Brush Pens,Art Supplies,19.99,648
+fcf522f2-a414-4331-a8de-7a80c0adc943,Honey BBQ Ribs,Food - Meat,12.99,267
+d3c28126-e64c-407c-9a65-53b76f885d22,Cream Cheese,Food - Dairy,2.69,749
+1bf6de38-7938-4048-84d7-c6e0d7ee9810,Kids' Activity Book,Books,14.99,596
+0d90ae5e-3a37-4536-adfd-07d5b9b02dc3,Teriyaki Chicken Stir-Fry,Food - Frozen Foods,6.99,993
+18f983ba-d8c1-451f-99f9-faa02b7c51f7,Adjustable Dog Harness,Pets,24.99,741
+c2aa839c-d4cc-4da0-8d98-db7f843bdbf2,Herb Seasoned Croutons,Food - Salad Toppings,2.99,352
+ad2357e7-0144-472a-8821-242a4cc35dd1,Plant Pot Drip Trays,Garden,9.99,36
+a504ab45-c567-4c42-bc14-4da01b3ca54f,Athletic Compression Tights,Clothing - Activewear,39.99,692
+0eeec307-72f0-4f2b-9f1e-c22cdb0ed773,LED Desk Lamp with USB Charging Port,Office,29.99,620
+3bf931e3-4a28-4735-b696-26c14d4b9421,Safety Goggles,Safety,14.99,469
+98e4c2f8-86af-43e1-8c20-72320257d72d,Coconut Chips,Food - Snacks,3.59,761
+212d1151-2e14-4ec8-a2f0-6d4f6377f888,Pumpkin Spice Creamer,Food - Beverages,3.79,643
+7960ca1d-c816-4105-a675-8587cb2ac13d,Fleece Lined Leggings,Clothing,29.99,182
+6b753efe-4985-47ea-aee1-58fbf9f24897,Flavored Popcorn Mix,Food - Snacks,2.99,193
+73af659e-ad87-499b-a958-f85440a119ab,Chocolate Fudge Brownie Mix,Food - Baking,2.99,576
+925dc867-064e-4b7f-9435-78f530582abc,Oven Mitts,Kitchen,15.99,577
+5e5cb458-1ccf-4679-9916-05c4ee6274d8,Electric Blanket,Home,59.99,322
+b16e907b-ea11-4e9f-b226-7fa9623e02bc,Slim Fit Chinos,Clothing - Pants,54.99,801
+9ae51c22-17a0-4d01-b752-0f5a42068f46,Memory Foam Pillow,Home,39.99,748
+605c7b45-f91f-4d7e-8223-8ba89bbe8e0c,Suede Ankle Booties,Clothing - Footwear,79.99,154
+f07191d4-6fbd-4892-a2b8-7349705fdafe,Home Karaoke System,Audio,129.99,990
+af2d4fb8-8a4c-401c-9e46-4bb8772a508b,Honey Lemon Tea,Food - Beverages,3.29,200
+8ad37915-2de6-4b08-b2f0-ea22ccfc0584,Mediterranean Olives,Food - Condiments,6.49,705
+315c7298-9014-4ee0-9286-33aa96da110f,Mixed Nuts,Food - Snacks,5.99,835
+7a35eb60-f8d7-4d89-a14c-51675625ea82,Smartphone Camera Lens Kit,Photography,19.99,694
+fd408a9f-59b3-418c-b7ca-4c3f227dcbcf,V-Neck Sweater,Clothing - Tops,49.99,361
+6be1d31a-3f31-4bb8-bb42-dc39cc56907d,Whipped Cream Cheese,Food - Dairy,2.99,227
+101d6376-4f79-4f3a-b458-791d1e6c032e,Decorative Throw Blanket,Home,39.99,341
+2a63a2f2-9b8a-4f16-9b42-3963f333055a,Coconut Curry Lentils,Food - Canned Goods,5.79,340
+cb7ca2bc-0ba2-456b-8c73-26d820094a66,Camping Chair with Cooler,Outdoor,49.99,471
+c9b9e601-02ed-4ef9-8c86-7943996a7f7e,Photo Album,Home,24.99,20
+b5da8bbf-be02-4cf8-8490-648c0f90d735,Maple Almond Butter,Food - Nut Butters,5.49,605
+52e94d23-0adb-4941-a12d-0a139d9937e4,Luxe Velvet Blazer,Clothing - Outerwear,89.99,652
+b0c03532-733f-4c58-93da-bb173a6294de,Mini Projector,Electronics,169.99,36
+6a3446c1-9ea2-416e-9139-0e130454464d,DIY Lip Balm Making Kit,Crafts,22.99,495
+28d3d1f4-b05b-4d81-9bfd-9fcfecac1f3f,Honey Garlic Shrimp,Food - Seafood,8.49,23
+191a7e22-9cd5-4df9-8d66-f4b2fcfef081,Cat Scratching Post with Toys,Pets,44.99,503
+7ddd69e7-1b36-4c26-99e3-241ee8f16788,Electric Wine Opener,Kitchen,29.99,729
+584c24be-e425-4f5e-8ede-7c99a1579262,Woven Storage Baskets,Home,24.99,489
+ec4b7732-5f38-4936-b726-30b847b0b7e7,Frozen Mixed Vegetables,Food - Frozen,1.99,505
+10bef2e6-767f-4d31-811a-1453f29cf3eb,Rustic Italian Breads,Food - Bakery,3.99,904
+0e34cb78-c77e-429e-9a79-c6c7f0aa9711,Chocolate Dipped Fruit,Food - Snacks,5.99,30
+6a5037de-580a-4bda-9f39-3fe01f16d56e,Vegetable Chips,Food - Snacks,3.99,48
+09808b55-ac90-4e34-8146-44ffe24a8636,Organic Baby Spinach,Food - Produce,2.99,449
+228e4a60-be35-4821-bbf9-cfde43a0488c,Reversible Swimming Pool Lounger,Outdoor,34.99,86
+bc1fbf49-b9c2-4609-8a06-d71089c53535,High-Speed Hand Blender,Kitchen,39.99,573
+9a1dd6ea-3d30-4dda-807a-bf0f919cde3e,Reusable Snack Bags,Kitchen,14.99,680
+bc5c865f-b92b-4b32-939c-e3714e4007b2,LED Disco Ball Light,Home,19.99,981
+62f6bfb3-7f6c-4809-adbb-002eec6e4dbf,Foldable Electric Scooter,Outdoor,349.99,324
+83d136f4-45af-4a78-9ef9-9fdfa9aed81d,DIY Candle Kit,Crafts,34.99,893
+5c2794eb-8897-469d-a61f-c5c0a1d6f7f6,Savory Rice Cakes,Food - Snacks,2.5,227
+d5135133-d2cc-4413-a982-eaadaae25ec5,Pet Nail Clipper,Pets,12.99,443
+855afab4-e3db-4fdf-9d69-ceb8bec9c183,Spicy Garlic Edamame,Food - Snacks,3.99,537
+ca2ea24e-02a0-4b35-be99-e99a99c75848,Asian Salad Mix,Food - Produce,3.99,95
+7daee122-d074-49e4-a314-9651686f3e7a,Almond Flour Brownies,Food - Baking,5.99,232
+953817ec-e32c-44d5-8b4a-785d8d12c984,Under Desk Footrest,Office,29.99,627
+7440176d-4f31-4795-9709-9ec6bbcfd900,Vegetable Potstickers,Food - Frozen Food,5.99,855
+9b6e0965-7954-4c5b-a398-cdcc4cca1fee,Collapsible Camping Cup,Outdoor,9.99,519
+4d6e25af-fa5a-4e50-b915-c5e3cc571d06,Peanut Butter Pretzel Nuggets,Food - Snacks,3.29,372
+afb033e2-f162-44e8-9856-fad666edacb2,Banana Peanut Butter Smoothie,Food - Frozen Foods,5.49,106
+b6f31af9-aeef-4a30-b92c-300c8e6c2d83,Cauliflower Gnocchi,Food - Frozen Foods,3.59,437
+7be02c64-9864-4043-8029-18f24515e8ab,Pleated Midi Dress,Clothing - Dresses,79.99,399
+251e0905-ba60-48fe-ac37-58f67ecbfad8,Kids' Building Blocks,Toys,19.99,500
+01b9a3cc-a77d-4e6b-a05c-e6d6c61047ba,Board Game Storage,Toys,19.99,17
+aefd4734-6293-426a-9a25-b49fbb0206f9,Coconut Curry Lentil Soup,Food - Canned Goods,3.99,892
+f21afdb0-060b-431e-b45b-d82ebfcc1d1d,Canned Sardines,Food - Seafood,3.29,299
+c36cbce7-7dfc-414e-adfa-ba96574d0200,Ultra-Thin Laptop Sleeve,Accessories,19.99,363
+18954697-09a0-4899-8859-8f7dd261dbbe,Measuring Cups Set,Kitchen,19.99,940
+6ef9816c-23ed-401a-8512-f2c41035aa3d,Measuring Cups Set,Kitchen,19.99,654
+4f28b500-c62e-4af1-b30a-7cc0f334add2,Garam Masala Spice Blend,Food - Spices,2.79,672
+b761f225-78ab-4257-a853-30153be393ae,Oven-Baked Sweet Potato Fries,Food - Frozen Foods,3.99,711
+a50a9519-bc6d-44ab-82cf-73ac20990f1e,Low-Fat Cottage Cheese,Food - Dairy,2.99,515
+6fa1bcb7-76c1-4cfc-813f-ac5ce2df84f7,Dual Function Electric Skillet,Kitchen,59.99,604
+f2f0bfc4-815e-4997-8ef0-9a13611d25bf,Collapsible Storage Crates,Home,18.99,568
+14b59a55-1c39-48c1-b58a-37a33575d7d7,Kale and Quinoa Salad,Food - Salads,6.49,256
+83aa514e-4fab-4b77-aea3-4e33db0d2a11,Pumpkin Spice Cookies,Food - Bakery,3.29,781
+0d49c6df-4968-4f39-afbe-58fedb955372,Pumpkin Pancake Mix,Food - Breakfast,4.19,547
+cb2d309c-677d-4bec-8619-737b62dbc903,Electric Kettle,Kitchen,39.99,301
+e1c1f5f6-f7db-434f-b307-359a74b5f658,Sweet Potato Fries,Food - Frozen Foods,3.99,939
+feb8621c-5ce9-4e65-be9e-a7e28582a6e9,Vegetable Spring Rolls,Food - Frozen Foods,6.49,75
+2a73e2c0-2654-4393-b851-2039bb15c3b9,Kettle BBQ Grill,Outdoor,99.99,744
+d3ea9678-d904-4669-a9b8-042f0323d9c7,Apple Cinnamon Oatmeal,Food - Breakfast,2.89,429
+0744654f-a6f3-4bea-b771-687e12d3e9e5,Pet Training Clicker,Pets,5.99,616
+51b18d4a-6844-433b-a154-83e5664455b7,Brussels Sprouts,Food - Produce,3.49,421
+98766141-ffcf-4a03-8bb2-ad0013b9d56d,Zucchini Noodles,Food - Vegetables,3.99,550
+3d297727-0a30-47ea-aded-a33b69a81938,Himalayan Pink Salt,Food - Condiments,1.99,375
+51f1428a-3ba5-420f-b66d-6d08bf0b9295,Scent Diffuser,Home,34.99,189
+130ac20c-09b8-48c1-aa3e-c2eac7e0e695,Spaghetti Sauce,Food - Canned Goods,2.99,542
+63e615ab-06b8-41f0-8be6-4127d1943bae,Herb Garlic Butter,Food - Condiments,3.99,330
+dac25a2c-7835-4328-b057-395de637730a,DIY Candle Kit,Crafts,34.99,576
+78c2f220-200e-44d1-9616-b2e16a0647ca,Legging Pants,Clothing - Activewear,34.99,325
+5bc0a442-32d8-48e9-abcb-28e06756c77f,Fruit and Nut Bars,Food - Snacks,1.99,573
+79a1055a-0322-487c-974d-9052fbb50dee,Miso Soup Starter,Food - Soups,2.99,22
+916b52a5-d24e-4091-b334-a134a0954795,Camera Lens Cleaning Kit,Photography,14.99,196
+460f97f5-ebd2-4ed7-b978-6e3d5bb1de17,Spaghetti and Meatball Dinner Kit,Food - Meal Kits,7.99,488
+a63f91a2-dfbe-43e3-a670-0a67299eeca7,Savory Trail Mix,Food - Snacks,4.29,914
+c6862b27-b809-4c8f-be14-d073816f4abe,Lemon Dill Salmon,Food - Seafood,9.99,778
+6c9c876f-87b9-4459-b4c4-5dc767563410,Heavy Duty Gardening Tool Set,Garden,49.99,761
+5553961e-9b54-4f02-bc7a-d082d3a4401e,Balsamic Vinegar,Food - Condiments,4.99,333
+fce153e5-d8e2-493b-a046-5692382e23e0,Multi-Function Meat Tenderizer,Kitchen,19.99,338
+cfd6db4c-d6bf-4256-b009-b3ba79e721c7,Ski Goggles,Sports,49.99,331
+9a02d5c1-d925-4acd-95c8-1b48b3b0ad2b,Ice Cream Maker,Kitchen,79.99,671
+ef5d5c8a-7323-4432-851f-21395d9c5818,Wooden Children's Play Kitchen,Toys,129.99,598
+25c81919-2a58-4263-929c-fcb460658a21,High-Speed Hand Blender,Kitchen,39.99,96
+6aecfea7-dd0b-439d-869d-b1ca1aa8af10,Almond Butter Cookies,Food - Snacks,4.49,800
+9190b6fb-17d6-4598-95a7-ea71d2735509,Herbed Mushroom Risotto,Food - Prepared Foods,5.49,161
+1ed26400-3bf2-4894-b487-8aa57d84b28c,Pepper Jack Cheese Sticks,Food - Snacks,2.49,331
+4a5670bd-bd02-4df8-b817-d7cc88dd3fe9,Mango Sticky Rice Dessert,Food - Frozen Desserts,4.5,330
+4ef8f394-e9a4-468b-9913-94b5cffc3625,Coffee Grinder,Kitchen,39.99,46
+c1b2deae-4194-4ac7-919f-281e304e0aeb,Honey Roasted Peanuts,Food - Snacks,3.19,43
+5bb2ba8d-40d0-4662-8ebd-70f9ba6802a3,Veggie Lovers Pizza,Food - Frozen Foods,8.99,298
+232938d1-aff9-4935-96e2-344567a9a466,Travel Jewelry Case,Accessories,24.99,28
+523f06a1-1310-4f27-95c2-3e8905cda5a9,Stuffed Bell Peppers,Food - Frozen Meals,5.99,222
+bcbc4e6a-5a9e-4e47-98a5-058367cfa773,Vegetable Potstickers,Food - Frozen Food,5.99,42
+ac2e11bb-a717-4cef-bbc1-c4d56faf9870,Sushi Rice,Food - Grains,3.99,874
+bdcb74a2-bed5-4373-8354-ac19bbbb0b49,Chicken Parmesan Dinner Kit,Food - Frozen Meals,14.99,584
+0343a8d6-4c94-4be8-92eb-0c1d9657d65a,Rice Pudding,Food - Desserts,2.29,538
+0b781c04-a6fc-41c7-b31f-8179f2840423,Almond Joy Protein Bars,Food - Snacks,1.99,572
+7b91639a-87fa-4727-a179-7f529b34f797,Ceramic Knife Set,Kitchen,39.99,543
+f38e2e3c-003e-413b-8448-f819cb8cc542,Chicken Sausage,Food - Meat,6.99,547
+33cd0f02-941e-4c58-9a6d-87411a2e8fcc,Almond Flour Tortillas,Food - Baking & Cooking,4.99,849
+4f168a93-64c6-4601-9394-e8fbede6e39f,Cold Brew Coffee Maker,Kitchen,34.99,118
+0a5754be-e279-4f45-b75a-c7f83903e374,Leather Notebook Cover,Office,29.99,529
+f74a82a2-c3da-4108-9d71-8997c009a773,Kitchen Scale,Kitchen,19.99,324
+322142aa-d3d3-461c-ba45-83c0586427d0,Rustic Italian Bread,Food - Bakery,3.59,814
+f7e38ea7-175e-43bc-a0cb-804c175d6ad6,Mediterranean Couscous,Food - Grains,3.59,405
+64804c42-3ac8-4674-a267-a208084aa79a,LED Desk Lamp with USB Charging,Office,39.99,572
+c361d54a-83e4-415f-8a97-d864c5b14964,Spicy Roasted Nuts,Food - Snacks,4.99,62
+e151c6e3-6d60-49b9-8adb-3a8f938a5a6e,Vegetable Broth,Food - Canned Goods,2.29,998
+904136bb-1b21-4c75-bf0b-22a8095fc380,Adjustable Dumbbells,Fitness,249.99,417
+4a8e39d6-c945-45d2-a9a8-78f0fc6005b7,Cordless Electric Screwdriver,Tools,39.99,763
+e0bc9d66-470a-4f99-904f-76af7221a0a8,Drone,Electronics,249.99,281
+73efbf34-fc6b-404a-8308-d05aadef0620,Mini Air Purifier,Health,49.99,273
+e5c1c102-625e-49ce-9c56-b85219e24f70,Luminous Night Light,Home,15.99,486
+f59464d7-4b03-4989-96aa-0103ea2325d1,Lemon Lime Sparkling Water,Food - Beverages,1.99,507
+76a6f3d5-3d28-4326-9247-a49cf5289d63,Buffalo Sauce,Food - Condiments,2.99,995
+370f937a-7494-49af-b831-debe43baa4f3,Organic Quinoa Salad,Food - Prepared Meals,5.99,64
+c40f3d50-4e26-4944-a967-9996c9ef152e,Oven-Baked Potato Chips,Food - Snacks,2.79,655
+eece3e02-e222-4cf2-9f88-de05f5d97a82,Lemon Garlic Shrimp,Food - Seafood,8.99,427
+c82147a9-b7f2-40ad-9c5c-3b2fc935d351,Customizable Photo Calendar,Books,19.99,414
+876ab7ec-ab6e-45e6-a214-4f6dd46a5dc0,Wireless Earbuds Case,Accessories,12.99,658
+76b34a14-d963-4b9f-8c98-095bf6246b58,Sweet Cherry Tomatoes,Food - Produce,2.99,247
+06743df9-fc05-4149-b586-d1f54ccd02b4,Organic Cereal Bars,Food - Snacks,4.29,412
+8927130a-ebcb-4af2-8d83-03c53a4f4eef,Organic Coconut Oil,Food - Oils,8.99,831
+273ded75-3e71-47ae-8deb-41423feaecdd,Paint By Numbers Kit,Art Supplies,24.99,659
+ad46db47-496e-4281-a342-c815b1f09f35,Over-The-Door Shoe Organizer,Home,25.99,691
+11eea031-b221-43d0-81f9-6edb90714f3b,Honey Garlic Chicken,Food - Meat,8.49,350
+14ce3617-2826-4b42-a29d-5a3d35fecdbe,Spicy BBQ Sauce,Food - Condiments,3.99,407
+13c659f5-036b-4073-ae69-b7e30c63abd6,Bamboo Utensil Holder,Kitchen,14.99,515
+cfb91748-33aa-4a1b-a152-c27d38322f66,Herbal Garden Starter Kit,Garden,24.99,101
+461c258d-91c2-4d18-a026-8a7a775f5db2,Compressed Towel Tablets,Travel,12.99,761
+4f0078a7-ee0d-4fae-81d7-0c6ddb751255,Rustic Italian Breads,Food - Bakery,3.99,650
+b59f4b41-487d-4324-ad47-2ee4920afa9f,Measuring Cups Set,Kitchen,19.99,791
+60edce93-e2b7-4b49-a275-1b38a81537f8,Portable Hammock Swing,Outdoor,59.99,622
+8661c95a-8ef9-4d88-bd9a-60898e7273f1,Face Mask Set,Health,19.99,518
+e7b3ff5a-ab87-4e75-bf58-663b942d943f,High-Speed Hand Blender,Kitchen,39.99,321
+16fa5cef-001e-43d0-8b46-9c008f0d4391,Crispy Potato Tots,Food - Frozen Foods,3.69,540
+02892eb1-2f84-4b46-8cbc-1f37312c3cc9,Dog Training Collar,Pets,39.99,401
+48a470a7-91a2-451f-a22b-f0df75775501,Bicycle Repair Kit,Outdoor,14.99,871
+99e222e7-341d-4c7f-8555-2ccce7dcd69f,Pumpkin Spice Creamer,Food - Beverages,3.79,949
+3bbc4dac-23ed-4f13-8887-4a1a0912a126,Travel Jewelry Case,Accessories,24.99,153
+cb7f96c5-6860-4107-96c6-40130694b91d,Ice Pack,Health,8.99,897
+44d541df-377d-4292-a65d-f807f0a5b48f,Suede Ankle Booties,Clothing - Footwear,79.99,968
+f033f6b5-3f05-4011-a745-cc6b8b004f24,Portable Camping Shower,Outdoor,39.99,82
+cbf186b8-9e4d-473a-97a6-a5264c2a3ab9,Two-Tone Windbreaker,Clothing - Outerwear,59.99,719
+73a7a3bc-3598-4d03-a01e-d956ce75e90f,Slim Wallet,Accessories,24.99,629
+733ba582-02ef-4463-8b60-07d28e162533,Laptop Stand,Accessories,29.99,470
+eb5e00c5-e840-451f-8342-def024dc31d8,Garlic Naan Bread,Food - Bakery,3.99,185
+c075c3e9-27f3-411c-9ea8-65f2675a312b,Sliced Turkey Breast,Food - Deli Meats,5.49,991
+a5e90a17-241a-4f35-a631-14f47b66f73f,Chilli Lime Corn on the Cob,Food - Vegetable,1.99,215
+7b3473f6-baf9-4389-8a0b-26abdb9915d0,Coconut Milk Yogurt,Food - Dairy Alternatives,2.99,673
+9d87a72e-82a9-4de5-bc75-04503fa42751,Butternut Squash Ravioli,Food - Frozen Foods,6.29,725
+e169d649-2115-4446-9443-dbe06e337a22,Buffalo Sauce,Food - Condiments,2.99,93
+af7e6c12-aac0-4b11-9b26-41c1938f776d,Mini Cordless Vacuum Cleaner,Home Appliances,45.99,352
+ede2046a-02fa-44b5-8e58-6b0a366f0485,Stainless Steel Water Bottle,Fitness,25.99,770
+5f28b183-a123-42e0-b11b-18541719f3d5,Classic Cheesecake Mix,Food - Desserts,4.99,565
+a1c249ed-33be-45db-9174-1e5e56d328d8,Adjustable Kitchen Broom Stand,Home,14.99,196
+b0de0a00-ec13-453d-beb4-bbbf4fe0d8ea,Portable Air Pump,Outdoor,19.99,319
+14a3a757-6860-4bc2-9c16-a67138f76385,Ice Cream Scoop,Kitchen,12.99,525
+8f4c9a05-29c2-412a-8b69-75295e694c0b,Window Bird Feeder,Outdoor,19.99,381
+cfa67920-4930-45a3-8a80-ad4aeeda1a2b,Pet Safety Harness,Pets,24.99,721
+f62ffd8d-97dc-4a8c-9b78-993eb53bf88e,Sweet Potato Chips,Food - Snacks,2.99,836
+e77669d6-2466-4bf5-b1af-ca8c482df3a5,Carrot Ginger Soup,Food - Soups,4.29,20
+05d7874c-cbf9-417f-8da4-41074d21c4df,Cacao Powder,Food - Baking,4.49,602
+fc097b78-0b72-44dd-8443-5dab9a21fd31,Insulated Cooler,Outdoor,39.99,502
+adc098af-861d-4e99-b48b-d3b5f8a5fd65,Vegetable Lasagna,Food - Frozen Foods,6.99,687
+2128ccc6-de80-4ad5-8ff2-afd6cbbf502d,Kale & Quinoa Salad Mix,Food - Salads,4.49,755
+aa6ce60a-3165-4574-8683-76df6caece82,Home Brewing Starter Kit,Food,79.99,687
+43277882-3c3f-4ba8-b5fa-feccfe8ec76c,Smartphone Holder for Car,Automotive,14.99,354
+9c972a35-66d9-40b1-995b-b0b3c40cd31b,Ice Cube Tray with Lid,Kitchen,10.99,875
+6b8837a4-5d42-4f6d-8f17-4d0cca47812b,Chocolate Protein Powder,Food - Supplements,24.99,563
+72702b5f-53e2-4050-b24a-e38737b2995f,Roasted Garlic Butter,Food - Condiments,3.29,595
+dff1c6dd-b835-446f-9bd1-20d725a9a493,Wire Shelving Unit,Home,69.99,412
+7b4da00f-a21b-4f7d-a69f-ee4430a9d0a4,Portable Grill Cover,Outdoor,24.99,862
+de7e0377-c5c8-4aae-8cb8-450fd041d1f2,Shredded Cheese,Food - Dairy,4.29,202
+aae74793-9b34-4ac1-ac98-2e152fcfcb30,Vegetarian Sausage Links,Food - Meat Substitutes,5.89,701
+53f41172-a96b-4888-84fb-6b7df4698749,Scented Candles,Home,19.99,909
+1b94ef0c-80cf-42b3-be3e-e93bdc5457a0,Heated Throw Blanket,Home,49.99,464
+eb175ecf-f11b-4702-b220-636454c40e85,Electric Stool Heater,Home,29.99,20
+55de3883-6a22-40ab-8151-206b01c632a8,Coconut Flakes,Food - Baking,3.29,898
+5ced66a9-02da-49bb-a146-d1368823658e,Pasta Salad Kit,Food - Prepared Foods,5.99,259
+c0253e22-0c2c-4c83-a39b-620e9f5b7e86,Electric Food Slicer,Kitchen,99.99,151
+3b3694d1-e489-4984-afcd-f47add83d115,Camping Lantern,Outdoor,34.99,888
+6d7e7555-1bd6-4ef5-9b9b-feb10cd0e626,Portable Water Filter,Outdoor,29.99,435
+495d7562-e4f0-4ebe-a4b4-25608163f99b,Organic Baby Spinach,Food - Produce,2.99,158
+ab4e38d6-55b4-430c-87ec-78a63c565f32,Classic Watch,Accessories,99.99,362
+c88b7521-ae42-4059-bf85-c1b51fed7a5d,Buffalo Sauce,Food - Condiments,2.99,399
+14d82c62-48e2-41dd-9050-00f0eda3c365,Peach Green Tea,Food - Beverages,3.49,73
+fb1ae551-1f86-4b25-a207-bc574aa5f002,Cheddar & Bacon Potato Skins,Food - Frozen,7.49,601
+22b1f41b-653e-4a4a-8b13-3ef480486426,Red Lentils,Food - Grains,1.99,206
+a7f27870-4837-4158-b840-082bd30571c3,Ice Cream Scoop,Kitchen,12.99,897
+1e4f458e-afa8-4e98-81af-431fc8feb2da,Italian Breadsticks,Food - Bakery,2.49,323
+ee2919ac-1bf6-49cc-9078-3523d364e1a2,Spicy Tuna Sushi Kit,Food - Prepared Meals,8.99,636
+8ebfe1f0-098f-4328-9d83-29d3328e991a,Luxury Bath Robe,Clothing,49.99,741
+5aa92370-1f22-4a01-b5d3-97d7e7e5ffff,Coconut Chips,Food - Snacks,3.59,593
+9b01b34f-6f64-4429-92f7-a7e6a9c385f5,Chocolate Hazelnut Granola,Food - Cereal,4.49,852
+7fa2b414-1cd0-4a03-9fb0-9c6c2f22e4b0,Luxury Memory Foam Mattress Topper,Home,129.99,281
+67d6d3f7-8aaa-4dec-9c84-84b9fe318bf1,Non-Stick Grill Pan,Kitchen,39.99,97
+97cd7dbd-2a5b-4001-b5be-c8628f195344,Inflatable Paddle Board,Outdoor,349.99,465
+8c63edaf-18f9-4fdf-af4b-feec483212ba,Potato Wedge Seasoning,Food - Condiments,2.49,654
+877b928d-3429-4666-9e3e-25a12fef2fa6,Portable Refrigerator Freezer,Outdoor,299.99,11
+80ef0f6a-fad7-4b24-942e-be26efdf7814,Adjustable Kitchen Broom Stand,Home,14.99,622
+144e9aff-516c-4772-8d0a-138e8aeede22,Men's Waterproof Hiking Boots,Footwear,89.99,420
+0f1efc72-5ed0-488d-aac3-36547619aae7,Kale Salad Kit,Food - Salads,4.99,474
+23d5d960-ddb0-4e75-8347-5e6f0a47270c,Strawberry Banana Smoothie Pack,Food - Frozen,4.99,960
+fdaeddf9-6be0-4299-947a-57760e43ddfd,Camping Chair with Cooler,Outdoor,49.99,976
+4563be29-ef4a-4a44-9470-c561fbd91cea,Backpacking Tent,Outdoor,109.99,33
+3e9b4828-cad1-478a-8e3c-d3b95bf230f9,Compact Electric Kettle,Kitchen,29.99,409
+b7d10af5-48ae-4457-b946-b9f9d21337b6,Wire Shelving Unit,Home,69.99,198
+8210dd5b-3cbf-4b59-b009-71d106448bc7,Cinnamon Apple Sauce,Food - Canned Goods,2.49,150
+6f6adcbc-ddce-46b8-8e33-047bdbf43626,Curried Lentil Salad,Food - Salads,4.29,232
+6257485a-0d76-4cde-ad8c-4f9525e54b70,Peanut Butter Banana Smoothie Mix,Food - Beverages,4.49,56
+a3f850e4-78b2-40b2-a6dd-71f0a20c2774,USB-C Hub,Computers,39.99,603
+3a46f686-0997-45ec-af8f-21645abf2516,Portable Solar Charger,Electronics,29.99,734
+621cc7fc-8935-44d5-9fd8-98360cb06c65,Gingerbread House Kit,Food - Baking,6.99,821
+f56538f5-e99e-4d60-b1d6-d7af7e7388c2,Portable Hammock with Stand,Outdoor,69.99,348
+a01c8599-a3b9-4305-b089-c17a1ed25170,Hummus Variety Pack,Food - Dairy,5.99,753
+0b96227d-05d3-474d-8eaa-9e1c0f7c6d32,Motion Sensor Light,Home,19.99,326
+8db686d9-45a8-49f5-ac00-f61c9c8ec718,Electric Griddle,Kitchen,54.99,675
+9eafbdc5-69a6-48c8-a8a3-11cf3821cba9,Insulated Coffee Mug,Kitchen,24.99,495
+dade7ef4-4a52-4941-9715-f39586162bfc,Ice Cream Maker,Kitchen,79.99,839
+49e5c9ad-c51f-4aed-881c-579a93189a20,Elegant Lace Dress,Clothing - Dresses,79.99,231
+7bc6a4de-5208-485a-99d6-2553fd9eeb7e,Organic Black Beans,Food - Canned Goods,1.29,865
+c41fd82e-f39d-4282-92a4-053785eccedd,Luminous Night Light,Home,15.99,98
+2f0b0a73-6416-4a9a-bf97-3ae86434086b,Wooden Kitchen Utensil Set,Kitchen,19.99,519
+07f1314f-68e2-4673-a361-cef872a7dc46,Peanut Butter Pretzel Nuggets,Food - Snacks,3.29,732
+671a5d1a-0f84-4feb-8d2e-36a139209eea,Over-Ear Headphones,Audio,59.99,536
+be2f3da3-3590-457a-8055-e1eaf9f0eedc,Pasta Salad Kit,Food - Prepared Foods,5.99,63
+66387c2e-da6e-4209-853a-9aadbe8d5e1e,Sweet Cherry Tomatoes,Food - Produce,2.99,915
+815c450a-ca9c-4d95-a646-b2e5662caa68,Saffron Rice Mix,Food - Grains,2.99,540
+f7cf9881-44af-4b5c-b161-97a9b92ef33e,Smartphone Projector Kit,Electronics,24.99,766
+faa84c17-159b-4e53-9af3-251d1ac4e9f5,Solar String Lights,Outdoor,29.99,724
+333a861c-4151-4c3a-aa7a-d303c8e38177,Breathable Face Mask Set,Health,14.99,951
+3592b735-dcfb-473e-9d02-13749a8d4b85,Taro Chips,Food - Snacks,3.59,771
+c221ace0-8dc2-44cc-a1c6-81d1589c0735,Wall Decals for Kids,Home,24.99,793
+da620dc0-31f1-433b-b0aa-ea5008c9ce61,Leather Biker Jacket,Clothing - Outerwear,129.99,224
+ea166346-f4cf-46ed-9004-4a45ccfaa8d8,Tactical Backpack,Outdoor,59.99,742
+e4342594-5dbd-4755-b3e5-57e35b9159e7,Natural Peanut Butter,Food - Spreads,4.29,740
+b06d6699-3fde-4793-9dc8-555afa7217aa,Herbal Tea Sampler Box,Food,29.99,703
+12f712b7-6392-4915-84a0-386c1cabee1b,Travel Document Organizer,Travel,15.99,386
+aa520d93-b367-4a5c-9e4f-43be0907c3ca,Interactive Robot Toy,Toys,34.99,505
+cfa7e8bf-e14c-4b2c-a2a0-08101ea631bd,High-Speed Blender,Kitchen,99.99,396
+1bda1fed-14c6-4735-930c-856c71018de5,Insulated Wine Tote,Accessories,24.99,179
+d21076b2-3fb9-45f4-8137-8bf22745ee8e,Garlic Parmesan Roasted Potatoes,Food - Sides,3.99,895
+74dce4ed-001f-449a-a713-7e66e12f0336,LED Strip Lights,Home,19.99,519
+fffa8f86-fd18-44e1-aa54-31a85f676ff7,Electric Opener for Jars and Bottles,Kitchen,24.99,778
+9f72b165-6726-4249-8d4d-88618fac1b3e,Aged White Cheddar Popcorn,Food - Snacks,2.99,670
+7e40d3cd-ef55-4383-9e0d-f46f92cfdd77,Honey Mustard Sauce,Food - Condiments,3.29,47
+7dab85b5-a464-49af-ba89-53ae6ec76d70,Elegant Maxi Skirt,Clothing - Bottoms,44.99,40
+61d346dd-ed64-4659-b6f3-d21996d24ca9,Dark Chocolate Bars,Food - Snacks,2.99,583
+e4a154f1-ab87-4148-b102-18a1000227b7,Hot Salsa,Food - Dips,2.29,348
+9333da22-12f8-48a4-9e11-e88f0dae8bf3,Mediterranean Couscous Salad,Food - Salads,5.49,37
+72925eae-c013-423b-aa87-5dc486b50e67,Pet Travel Bed,Pets,26.99,308
+db4560db-0001-40bc-88a1-f62738a216ed,Pet Activity Tracker,Pets,59.99,91
+455670fe-d7a7-43e3-881e-10edf8df4908,Essential Oil Roller Bottles,Health,19.99,555
+af00ceb5-a718-451d-ab6a-51c10cb65a2f,Coloring Books for Adults,Books,14.99,520
+5a514fbe-fbd2-4d74-9822-032091d02182,Smartphone Gimbal Stabilizer,Photography,89.99,784
+105302d7-48f7-49bc-a9c8-2292dc647352,Wireless Range Extender,Electronics,49.99,767
+47d4e36c-3c7f-4acd-9852-78bd3609c21f,Casual Cropped Sweater,Clothing - Sweaters,39.99,789
+6405438d-f538-45d6-a196-1ec57a7044c0,Ginger Turmeric Tea,Food - Beverages,3.49,805
+3fd55ed1-794d-486f-b151-fd7c92ab71f6,Adjustable Standing Desk,Office,299.99,178
+50d0001c-3c08-47f6-bc30-a72a3e3ee9bb,Electric Toothbrush,Health,49.95,308
+65bd04a4-95bd-469b-8bb1-ef054cc12c18,Frozen Salmon Filets,Food - Seafood,12.99,201
+4ddfa542-baa7-44e5-89f5-50d5d00c505c,Chocolate Chip Cookie Dough,Food - Baking,5.49,910
+87388ae1-9b8f-43d4-96b1-dae861b33815,Organic Brown Rice Cakes,Food - Snacks,3.99,740
+155b2d95-da1b-4b5a-91cc-87ce2904c2f2,Sunglasses Case,Accessories,15.99,185
+cf6771a6-147e-4293-9651-9c4fa87818ac,Chipotle Lime Salsa,Food - Condiments,3.99,766
+299e0a8a-3743-4c36-b634-6985fe45dac0,Travel Orthopedic Pillow,Travel,24.99,535
+1857680a-6f87-4c0e-8a79-4ba27d4fcbc7,Lemon Dill Salmon,Food - Seafood,9.99,927
+8a637e78-3e6a-40f6-984e-79a94ac6ac5b,Organic Lentil Soup,Food - Soups,4.99,104
+aaf6985d-a93b-4588-93ad-6cf8ab344f1d,Blueberry Muffin Mix,Food - Baking,4.29,727
+84f46eb4-71ec-44d3-85f0-0ae9f7febc5e,Sriracha Sauce,Food - Condiments,3.19,189
+84b3b50b-fea6-4785-990a-3289311bddd8,Thai Red Curry Paste,Food - Condiments,3.99,436
+84ede979-ef63-497a-8b4c-ad45a2822b03,Folding Exercise Bike,Fitness,199.99,429
+85a8f399-116a-4607-a9c2-45311bff6537,Reusable Snack Bags,Kitchen,14.99,210
+77713781-dfc5-4998-a4ac-632971414254,Travel Jewelry Case,Accessories,24.99,648
+dc7d0a7d-2621-404b-a853-a70268c0a7df,Sustainable Wooden Toys,Toys,29.99,574
+e27358f0-b381-4f0e-89f4-1445f6f87e08,Organic Whole Grain Oats,Food - Breakfast,2.49,154
+3cf59914-8016-461a-95aa-68e0f0b3a395,Peach Green Tea,Food - Beverages,3.49,104
+390e33f2-f7de-4c21-9d63-65883cccb629,Honey mustard chicken tenders,Food - Meat,7.99,504
+43e3a642-af68-4a68-a832-35cdfc1c1803,Vegetable Medley,Food - Produce,2.99,478
+79da1097-434b-4206-8726-351fe4c758be,Italian Herb Balsamic Marinade,Food - Condiments,3.99,614
+43741bfa-bc73-4996-871b-aa874ced8c19,Artisan Flatbreads,Food - Bakery,2.99,245
+e57b028f-ac00-4d8a-accc-4cfa42bf54ce,Creative Puzzle Game,Toys,19.99,885
+0ab3d0d3-798c-43aa-a6b6-bddef26135cf,Grilled Vegetable Medley,Food - Vegetables,4.49,914
+a91b2ce7-12d6-44c6-a5c5-a854001c4a0f,Running Shorts,Clothing - Activewear,34.99,286
+e94c6ee7-515d-4940-95b3-1082c0e4bf63,Cinnamon Spiced Almonds,Food - Snacks,5.99,747
+10b67f4d-a891-4385-a000-04b32f0b8cd1,Bluetooth Shower Speaker,Audio,24.99,225
+26b28306-a0bb-4bf4-a671-74037d24f43e,Adjustable Laptop Stand,Office,29.99,698
+bfca9c0e-9207-4bd0-889d-06c2bcba2157,Hair Dryer,Beauty,39.99,778
+28f29730-d67c-4ca9-836a-5e9c981b8386,Maple Pecan Pancake Mix,Food - Breakfast,4.99,828
+bc2a71fb-77a1-48ef-992f-68c9270a2d4e,Pineapple Coconut Rice Mix,Food - Grains,3.99,790
+8951906e-8520-499a-8b08-757525191df8,BBQ Lentil Chips,Food - Snacks,3.49,360
+8992fd33-90dc-4616-8453-bb6c66f62461,Mini Fondue Set,Kitchen,34.99,797
+d3a4a303-b437-457c-8e31-c09155170ca9,Maple Bacon Jerky,Food - Meat,6.99,499
+0075ef71-e086-46dc-81d7-2fb7f4ee87f8,Cauliflower Rice Stir-Fry,Food - Frozen Foods,4.99,749
+694b4302-1873-48e0-8f0c-11f59242f7fc,Personalized Cutting Board,Kitchen,34.99,830
+3f2286a7-b2e7-4fc6-81df-664b9bb5567d,Manual Coffee Grinder,Kitchen,22.99,495
+ee27c49d-7f17-4014-92a1-ba696f102b28,Dried Apricots,Food - Dried Fruits,3.79,654
+8694fdd6-f596-49c6-bd04-98fcc7dcf6d2,Almond Butter Granola Bars,Food - Snacks,4.99,99
+ca232b47-71b5-4a1d-926f-92585cfa4c0f,Magnetic Phone Car Mount,Automotive,14.99,866
+987f2437-bef4-4038-9f15-e6e2bcee30dd,Silicone Baking Cups,Kitchen,10.99,909
+de292f0e-1bc3-46c6-b748-4b1b1442615b,Creamy Tomato Basil Soup,Food - Canned Goods,3.29,404
+ac8f290b-657c-49be-977f-b9ae5dd6a2ca,Ground Cinnamon,Food - Spices,1.99,46
+6d139fe6-3bf2-41e6-8716-edb316e0baa7,Professional Chef Knife,Kitchen,89.99,610
+0b4c025f-e248-47ce-a7d7-2356b967a954,Frozen Pizza,Food - Frozen Foods,7.99,748
+1e582021-38c1-4d9b-beda-535c9bc4f4ed,Banana Nut Muffins,Food - Bakery,4.49,839
+824f2a3a-4301-4e50-96cf-9b27093e8c33,Beef Stroganoff Meal Kit,Food - Frozen Meals,12.99,233
+0b020d4a-0250-49b3-90bb-4206c1c7a67a,Pork Chops,Food - Meat,9.49,426
+60bff4dd-c24b-4ee9-8871-9c613c4876c4,Organic Apples,Food - Produce,1.89,277
+46e1e7f5-7430-4930-8ebf-6b1d471cbb94,Chewy Granola Bars,Food - Snacks,3.49,844
+8785a3e4-7fe1-4125-ac30-2934bea9bd63,Baked Falafel,Food - Vegetarian,5.49,316
+5a1b056e-6046-42dc-95a6-f5e4327164d8,Raspberry Lemonade Mix,Food - Beverages,3.99,229
+0bc7f178-6be7-4669-9dda-5308a8eb10df,Sports Windbreaker,Clothing - Outerwear,44.99,342
+16503bcc-3565-4760-a6df-ef32ced676b3,High-Waisted Skirt,Clothing - Bottoms,34.99,170
+65beb1af-cfe5-4038-90e3-07018f429204,Sushi Roll Kit,Food - Cooking Kits,9.99,407
+423b13e5-a474-4099-9c90-06334295f81c,Puffed Rice Cake,Food - Snacks,2.49,429
+8ec5f425-3478-4c37-a8cd-59f72d80de0e,Portable Grill Cover,Outdoor,24.99,973
+707c5d3c-0fbe-4cb8-9ef5-3b4a42dc2a77,Cabbage,Food - Produce,1.29,263
+32dee723-53d1-4913-ad2c-da1e5ad84661,Smart Plug,Smart Home,19.99,928
+d985b0db-bee7-4d2d-ac80-04f247015bfe,Kale Salad with Lemon Dressing,Food - Salads,4.99,872
+653c4167-6b74-4705-9b6f-aea549da6826,Air Fryer,Kitchen,79.99,132
+3f707333-4617-414d-ae1a-8f235198dff4,Spicy Roasted Nuts,Food - Snacks,4.99,268
+60612809-f79b-4224-9bae-613e55bd70c3,Bluetooth Headphones,Audio,79.99,94
+9900ca83-d8d0-447d-8d2e-1d982cb11b60,Video Camera,Electronics,199,204
+cc9bc92e-8034-470d-99c1-7cffa423ead6,Fruit Medley Juice,Food - Beverages,3.49,500
+7efe711b-fb57-4822-b9a0-0bcc06b97666,Multifunctional Baby Bottle Warmer,Baby,39.99,139
+411c79ab-1d98-422b-9733-316abf1ad7a5,Puffed Rice Cake,Food - Snacks,2.49,189
+8894f0de-1858-45d5-aeb4-ccd26f1ad19b,Maple Bacon Potato Chips,Food - Snacks,2.89,791
+2a9454c5-ec60-49e4-bbf8-46c84a336fbc,Wrap Front Midi Skirt,Clothing - Bottoms,44.99,331
+98083053-8403-46ad-8d38-80491d769754,Vegetable and Cheese Quesadillas,Food - Frozen,6.99,385
+87e09565-58a0-4f6b-bb91-340ee927faf0,Honey,Food - Condiments,5.49,522
+fe7b92fc-60c0-440a-bc46-e3d7f1ff64d1,Robot Vacuum Cleaner,Home Appliances,299.99,276
+e1a8add7-45b9-46d2-a8a4-92e651f9c75b,Self-Cleaning Water Bottle,Fitness,49.99,784
+a041c522-de07-4476-9157-5462f447f0bc,Classic Cheeseburger Mix,Food - Meats,5.49,179
+601c0415-1d96-40d0-91e2-d94fc6ad92ec,Multi-Function Smartphone Holder,Electronics,12.99,628
+48e6c2ba-9ac7-4c1e-aaab-571dc6c94498,Honey Roasted Almonds,Food - Snacks,4.99,320
+2a1b0bd0-64b8-4e12-b8df-a63a6c8f7c70,Field Journal,Books,14.99,793
+1a90e0f3-2344-4176-a2fe-f73eede49b52,Vegan Mayonnaise,Food - Condiments,4.49,947
+aba7cdb5-6dc8-4a31-ae73-f0deeb31337c,Roasted Red Pepper Dip,Food - Snacks,3.29,82
+26a2e8b8-738c-4737-843a-97ce1feb9b9f,Multicolored LED Strip Lights,Home,29.99,886
+39bfd1c3-782c-4a4e-b0d9-4523f007ec74,Ice Pack,Health,8.99,781
+066fe5c4-6bcb-4895-99bd-f0c7639bafb2,Lemon Herb Quinoa,Food - Grains,3.49,249
+f80260a5-b3f8-453f-9304-3bded13869df,Backpack,Accessories,49.99,109
+178d88f9-ac3c-4fd3-9110-442be487614b,Whole Grain Hamburger Buns,Food - Bakery,2.69,577
+b2fe7066-2123-4eaf-96ed-e6e77f7e8de6,Casual Long Cardigan,Clothing - Outerwear,45.99,613
+7de2c54f-69c0-4662-acbc-f0af344033e2,Garlic Butter Sauce,Food - Condiments,3.59,316
+45f5555b-a23f-4e5f-8bfb-451428b16690,Puffer Winter Coat,Clothing - Outerwear,99.99,363
+612b15c7-0795-4a53-b952-48a68afa39cd,Asian Stir-Fry Kit,Food - Frozen Meals,5.49,737
+34782470-5bfd-4a45-bddf-9513006c49f9,Fleece Lined Leggings,Clothing,29.99,281
+3daa2eeb-4494-4ed5-ba23-c2e9c4033caa,Vegetable Quinoa Bowl,Food - Frozen Meals,5.99,72
+957aeac5-85d6-4b43-b26c-04197ccc637b,Fishing Rod,Outdoor,49.99,710
+ae9002ee-a758-4ab3-9c3c-06ec9181ec02,Sliced Bread,Food - Bakery,2.99,269
+5efba37c-8069-4080-94c7-47cc18c2ccce,Adjustable Laptop Stand,Office,29.99,938
+38db2d73-8272-4015-a68b-99e4b2cc453c,Pear and Gorgonzola Salad,Food - Salads,5.49,701
+e8a1403b-9558-4db3-9737-c3e318f8b226,Magnetic Chess Set,Toys,19.99,36
+0aa4fc26-788f-4128-bb29-a9e02c21b992,Flavored Instant Oatmeal,Food - Breakfast,2.99,995
+dad3f700-a63a-45d3-a1d4-5fcc7a23cea2,Spicy Italian Sausage,Food - Meat & Seafood,4.99,866
+6a2c4e83-4c03-43bf-96f6-2f8bd2e4da6e,Noise Cancelling Ear Muffs,Safety,24.99,215
+e8c2b95c-f854-4592-ae0b-a0ab92772e03,Cauliflower Rice Stir-Fry,Food - Frozen Foods,4.99,436
+01a9577a-53b2-4633-8043-8f6f2dc15188,Cheesy Broccoli Soup Mix,Food - Soups,2.99,499
+c8a38d16-efde-4c33-8936-b7316441bfbf,Wild Rice & Quinoa Mix,Food - Grains,2.99,618
+de8ff75c-16d0-4b67-a80b-cf93e854ef6c,Canvas Tote Bag,Clothing - Accessories,19.99,539
+c2cbbf97-71f9-4bad-8523-cb8e0df46dfa,Pasta Salad Kit,Food - Prepared Foods,5.99,702
+6e70e590-3a9a-439a-bfde-924f4843f273,Stylish Combat Boots,Clothing - Shoes,99.99,826
+f95bb5e9-5826-4f2d-8071-1c507d4ccba4,Roasted Garlic Mashed Potatoes,Food - Frozen Foods,3.99,105
+b042a963-b022-4dab-b89f-0070e47587a3,Pretzel Bites,Food - Snacks,4.99,21
+9f746641-7e92-4834-9b68-2dc70eb25310,Stainless Steel Straws,Kitchen,12.99,768
+cbb362f4-c8c9-46a6-8871-08f08e30263c,Pineapple Coconut Yogurt,Food - Dairy,4.49,692
+46491768-96db-47e8-918a-66e6d79fe55f,Blueberry Oatmeal Cups,Food - Breakfast,3.29,811
+e8a0b1c2-5e2b-412e-801d-ed63dd09f904,Peanut Butter Pretzel Bites,Food - Snacks,4.19,257
+f9a173bc-1fea-45dd-9e6a-ab2a160e54c7,Sweet Potato Mash,Food - Frozen Foods,3.99,890
+765b06a3-8897-48b7-85b9-9a1fb95584fa,Chia Seeds,Food - Grains,6.99,889
+1440d78e-fcf4-4e2d-86d6-4825937a97d1,Biodegradable Phone Case,Accessories,23.99,417
+a95c1432-fc22-4ddc-b390-ed90283eae68,Ribbed Knit Dress,Clothing - Dresses,59.99,490
+992f87d7-d847-4fd8-b639-c707ceaccef9,Elderberry Syrup,Food - Supplements,11.99,460
+7f480ed0-c351-488f-a7fd-9d1c11095498,Karaoke Microphone,Music,39.99,509
+986fb864-44d9-417b-b565-341357c4eec9,Cinnamon Ice Cream,Food - Frozen Desserts,4.99,125
+82096d77-65fd-4fed-b9a1-68cc3220fcbc,Sweet BBQ Dipping Sauce,Food - Condiments,3.49,148
+069be6a5-4473-410f-81a3-efbbfc8d3128,Yoga Strap,Fitness,12.99,807
+b446c4cf-c8fa-4fc2-815b-006ff146b17e,Collapsible Colander,Kitchen,14.99,285
+0e8b257c-6b0e-4cf4-b39c-a6b3571034cd,Body Wash,Beauty,12.99,566
+2451a7d5-2fda-4321-bd67-38d9c6334004,Collapsible Colander,Kitchen,14.99,80
+a94e261c-5488-4489-8d22-6c0b6b7339dc,Tailored Blazer,Clothing - Outerwear,99.99,349
+20bfc5b2-f46f-48c3-9823-a61f34153852,Fruit and Nut Medley,Food - Snacks,5.99,33
+7a368aeb-7db6-4084-a025-6fb5f0c8574a,Athletic Compression Tights,Clothing - Activewear,39.99,217
+0bdf5b2c-505c-48d0-8734-902aa12f0776,Wireless Range Extender,Electronics,49.99,139
+4356192b-421e-405d-9473-fb1e5b9fcb6c,Honey Mustard Chicken Breasts,Food - Meat,8.99,386
+e43a33c9-9f77-4bd8-9f70-fed5d0715e1f,Marinated Artichokes,Food - Vegetables,3.79,693
+a244850f-6850-4a53-a43c-35248cf92858,Gardening Tools Set,Garden,45,506
+8e8f1097-f0d4-4e8c-a427-c0255cf1550d,Thai Green Curry Paste,Food - Sauces,2.49,28
+9ca244eb-6253-4d0a-a5a5-b61810a9288a,Herb Garlic Butter,Food - Condiments,3.99,657
+917dba9a-c582-4244-bba7-2e3f75dd095c,Knitted Infinity Scarf,Clothing - Accessories,29.99,362
+edcf7b25-d71a-4c60-8427-fdeec9333e85,Smartphone Gimbal,Electronics,89.99,221
+26ed0e6e-372c-456e-855b-6a63c3d452e3,Whole Grain Mustard,Food - Condiments,3.49,320
+1809ba7c-d154-441b-91c0-61d756f8acb2,Garlic Herb Grilled Chicken,Food - Frozen Foods,8.99,158
+1c5acd03-f984-409e-acb3-4e129ba4c0c0,Lemon Zest Olive Oil,Food - Oils & Vinegars,8.99,997
+a1738575-9ee7-438d-97c8-0caaab22651a,Handmade Leather Journal,Books,39.99,286
+0135c214-a5cd-45b5-9cc7-9c2e3abefa3f,Drone,Electronics,249.99,613
+cbcd4094-777f-4fc8-8e17-618b94bdf614,Fleece Hoodie,Clothing - Outerwear,39.99,310
+b30bce4d-2968-43d3-a1c2-5ea94ab1b7b4,Thai Green Curry Paste,Food - Sauces,2.49,240
+38985e9d-9351-4bc9-b789-da86b85ee1c6,Peanut Butter Filled Pretzels,Food - Snacks,3.99,395
+1332f336-145a-4a13-bb56-17b93d7ff4ee,Electric Griddle,Kitchen,54.99,354
+1b932dc7-d3de-441f-ba1b-07255b5a33f8,Smartwatch,Wearable Tech,199.99,380
+3cb575c4-fe5d-4306-889e-bbcdc9b91ef8,Spice Rack,Kitchen,39.99,873
+fd61f506-873b-4f6d-8105-814b075a1944,Self-Watering Planter,Garden,24.99,936
+cf4c7845-4dab-459c-b714-fd0eafa73723,Indian Curry Sauce,Food - Condiments,3.69,46
+34dc1674-0035-41a6-a30a-6c11d9a9b5be,Zucchini Noodle Pasta,Food - Vegetables,3.99,503
+b62f0381-708a-43c3-950f-3d4ea98a6da9,BBQ Jackfruit,Food - Prepared Foods,4.29,385
+c80f1d07-43ae-48a3-8c03-606da28dd004,Electric Wax Warmer,Home,22.99,872
+5935599f-686d-47ab-8802-6fa167f8589d,Lemon Lime Sparkling Water,Food - Beverages,1.99,625
+1f792b88-a591-4212-a7f6-aa8e804a52e4,Pasta Maker Machine,Kitchen,59.99,136
+1fee40c6-41f3-45f3-b2e1-35b63ec2452b,Biodegradable Dog Waste Bags,Pets,14.99,517
+cadcd191-8cf5-41ff-a0bd-ab0bc645f533,Stainless Steel Water Bottle,Fitness,25.99,168
+56392b34-caf4-41a1-863b-ebe0830194e8,Halloween Decoration Set,Home,29.99,443
+ed5eb860-89f6-4352-8ea0-94fda7a34e9f,Puzzle,Toys,27.99,165
+dd62513c-c453-449c-a585-1dee10d3a174,High-Speed Blender,Kitchen,99.99,64
+5000b34f-d42c-4980-9382-77489a124454,Frozen Vegetarian Pizza,Food - Frozen Meals,6.49,915
+fa032499-2eb6-43ab-a5cc-a9769099f93a,High-Quality Yoga Block,Fitness,12.99,727
+ce67323f-3b46-4ccf-ad99-cb2a082656d2,Thai Red Curry Paste,Food - Condiments,3.99,30
+74f7099f-1414-4fc1-8206-34ef7cc09e27,Gardening Tools Set,Garden,45,55
+69d3887c-609f-497d-9184-29dd24508c94,Plant Watering Spikes,Garden,12.99,235
+31f6193a-40d6-47df-b317-f0b788c000bf,Chocolate Mint Cookies,Food - Baking,2.29,825
+8ed85bdc-b52e-4363-b01d-f1c14134eb54,Honey Roasted Almonds,Food - Snacks,4.99,325
+b2e6465f-ffd6-46ac-9950-61fef032588b,Set of Measuring Spoons,Kitchen,12.99,513
+fbcb6715-a28d-4e88-bded-b84b8b73651a,Nordic Berry Smoothie,Food - Frozen Foods,3.99,986
+7e6dcc6f-c34c-4f62-a288-96e3ea60a389,Magnetic Chess Set,Toys,19.99,79
+75972f72-f04a-44ca-9fbe-f928c7d8c714,High-Speed HDMI Cable,Electronics,12.99,280
+3b4731b8-fe3c-4345-b6f2-dbaae7df3ff6,Electric Fondue Pot,Kitchen,39.99,825
+9e6afbbe-7ab2-44b0-b55a-1d572c9e3160,Safety Pin Dispenser,Office,5.99,589
+231c3236-05c8-4ad9-9612-017d23e55b61,Almond Flour Biscuits,Food - Bakery,6.49,931
+b56f56dc-057c-4a10-b890-f26cc88cb5be,Creamy Coleslaw Mix,Food - Produce,2.39,695
+31f3dd4b-d195-4729-a41f-1caf9468ca5a,Creamy Coleslaw Mix,Food - Produce,2.39,762
+161d3d2f-ab01-4c13-83a4-91907cffa458,Tuna Fish (canned),Food - Canned Goods,2.29,445
+065a4065-8ee4-47fa-8eb3-319d8a843f94,Organic Green Apples,Food - Produce,1.49,299
+b1ee239d-a601-4d2f-9687-73e21b18d3d7,Black Bean Spaghetti,Food - Pasta,3.99,728
+15745fde-6116-4a7d-b5aa-fdc0202fcc5b,Honey Mustard Dip,Food - Condiments,3.29,856
+e9f9c738-6a16-4f5c-accd-0f0b241a35f3,Set of Herb Garden Markers,Garden,8.99,275
+e3d1700e-f848-48ec-b6cc-1c665053acd9,Foldable Picnic Table,Outdoor,49.99,154
+c1dd4ca2-5a88-4801-a5a7-ad3bb465b20c,Blue Corn Tortilla Chips,Food - Snacks,3.49,607
+8f0ee970-a91c-4dac-9293-97defa75dee5,Wireless Smart Plug,Smart Home,19.99,441
+21f07da4-1c2c-4b58-8a59-0427741c2e67,Fashionable Scarves Set,Clothing,24.99,248
+6c9c99a4-5aae-4ad9-ad9b-ec01c3b4a278,Sooji (Semolina),Food - Baking,1.99,654
+118cbdc5-c1e8-4699-aba2-4d8391cbc369,Indoor Plants,Garden,19.99,477
+582a8816-469d-47a9-a605-40bd8d91d4fd,Electric Heat Pad,Health,24.99,466
